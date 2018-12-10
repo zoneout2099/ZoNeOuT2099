@@ -1,1505 +1,195 @@
-#EXTM3U
-
-
-#EXTINF:-1,A&E
-http://unlockyourtv.com:8000/charles/charles/866
-#EXTINF:-1,ABC West
-http://unlockyourtv.com:8000/charles/charles/980
-#EXTINF:-1,ABC Atlanta
-http://unlockyourtv.com:8000/charles/charles/2264
-#EXTINF:-1,ABC Boston
-http://unlockyourtv.com:8000/charles/charles/2266
-#EXTINF:-1,ABC Chicago
-http://unlockyourtv.com:8000/charles/charles/2267
-#EXTINF:-1,ABC Cleveland
-http://unlockyourtv.com:8000/charles/charles/2268
-#EXTINF:-1,ABC 9 Charlotte
-http://unlockyourtv.com:8000/charles/charles/1597
-#EXTINF:-1,ABC Connecticut
-http://unlockyourtv.com:8000/charles/charles/2269
-#EXTINF:-1,ABC 8 Dallas
-http://unlockyourtv.com:8000/charles/charles/1596
-#EXTINF:-1,ABC Denver
-http://unlockyourtv.com:8000/charles/charles/2270
-#EXTINF:-1,ABC 7 Detroit
-http://unlockyourtv.com:8000/charles/charles/1823
-#EXTINF:-1,ABC Fresno
-http://unlockyourtv.com:8000/charles/charles/2271
-#EXTINF:-1,ABC Indianapolis
-http://unlockyourtv.com:8000/charles/charles/2272
-#EXTINF:-1,ABC 9 Kansas City
-http://unlockyourtv.com:8000/charles/charles/1598
-#EXTINF:-1,ABC Los Angeles
-http://unlockyourtv.com:8000/charles/charles/1618
-#EXTINF:-1,ABC Miami
-http://unlockyourtv.com:8000/charles/charles/2274
-#EXTINF:-1,ABC Milwaukee
-http://unlockyourtv.com:8000/charles/charles/2275
-#EXTINF:-1,ABC Orlando
-http://unlockyourtv.com:8000/charles/charles/2277
-#EXTINF:-1,ABC 15 Phoenix
-http://unlockyourtv.com:8000/charles/charles/1592
-#EXTINF:-1,ABC Portland
-http://unlockyourtv.com:8000/charles/charles/2280
-#EXTINF:-1,ABC Sacramento
-http://unlockyourtv.com:8000/charles/charles/2281
-#EXTINF:-1,ABC Salt Lake City
-http://unlockyourtv.com:8000/charles/charles/2283
-#EXTINF:-1,ABC San Antonio
-http://unlockyourtv.com:8000/charles/charles/2284
-#EXTINF:-1,ABC Seattle
-http://unlockyourtv.com:8000/charles/charles/2287
-#EXTINF:-1,ABC St. Louis
-http://unlockyourtv.com:8000/charles/charles/2288
-#EXTINF:-1,ABC Washington
-http://unlockyourtv.com:8000/charles/charles/2289
-#EXTINF:-1,ABC 7 News (Sarasota)
-http://unlockyourtv.com:8000/charles/charles/1345
-#EXTINF:-1,American Heroes Channel
-http://unlockyourtv.com:8000/charles/charles/1760
-#EXTINF:-1,AMC
-http://unlockyourtv.com:8000/charles/charles/981
-#EXTINF:-1,Animal Planet
-http://unlockyourtv.com:8000/charles/charles/834
-#EXTINF:-1,BET East HD
-http://unlockyourtv.com:8000/charles/charles/453
-#EXTINF:-1,BET HER
-http://unlockyourtv.com:8000/charles/charles/957
-#EXTINF:-1,Bloomberg TV HD
-http://unlockyourtv.com:8000/charles/charles/1356
-#EXTINF:-1,Bravo West
-http://unlockyourtv.com:8000/charles/charles/2139
-#EXTINF:-1,Cartoon Network East HD
-http://unlockyourtv.com:8000/charles/charles/538
-#EXTINF:-1,CBS
-http://unlockyourtv.com:8000/charles/charles/993
-#EXTINF:-1,CBS Atlanta
-http://unlockyourtv.com:8000/charles/charles/2290
-#EXTINF:-1,CBS Baltimore
-http://unlockyourtv.com:8000/charles/charles/2291
-#EXTINF:-1,CBS 4 BOSTON
-http://unlockyourtv.com:8000/charles/charles/1031
-#EXTINF:-1,CBS Charlotte
-http://unlockyourtv.com:8000/charles/charles/2292
-#EXTINF:-1,CBS 2 CHICAGO
-http://unlockyourtv.com:8000/charles/charles/1035
-#EXTINF:-1,CBS Cleveland
-http://unlockyourtv.com:8000/charles/charles/2293
-#EXTINF:-1,CBS Columbus
-http://unlockyourtv.com:8000/charles/charles/2294
-#EXTINF:-1,CBS Dallas
-http://unlockyourtv.com:8000/charles/charles/2295
-#EXTINF:-1,CBS 4 DENVER
-http://unlockyourtv.com:8000/charles/charles/1034
-#EXTINF:-1,CBS 62 DETROIT
-http://unlockyourtv.com:8000/charles/charles/1040
-#EXTINF:-1,CBS Greensboro
-http://unlockyourtv.com:8000/charles/charles/2296
-#EXTINF:-1,CBS Hartford
-http://unlockyourtv.com:8000/charles/charles/2297
-#EXTINF:-1,CBS Houston
-http://unlockyourtv.com:8000/charles/charles/2298
-#EXTINF:-1,CBS Jacksonville
-http://unlockyourtv.com:8000/charles/charles/2299
-#EXTINF:-1,CBS Kansas City
-http://unlockyourtv.com:8000/charles/charles/2300
-#EXTINF:-1,CBS 2 LOS ANGELES
-http://unlockyourtv.com:8000/charles/charles/1036
-#EXTINF:-1,CBS Miami
-http://unlockyourtv.com:8000/charles/charles/2301
-#EXTINF:-1,CBS Milwaukee
-http://unlockyourtv.com:8000/charles/charles/2302
-#EXTINF:-1,CBS Minneapolis
-http://unlockyourtv.com:8000/charles/charles/2303
-#EXTINF:-1,CBS Nashville
-http://unlockyourtv.com:8000/charles/charles/2304
-#EXTINF:-1,CBS New Orleans
-http://unlockyourtv.com:8000/charles/charles/2305
-#EXTINF:-1,CBS 2 NEW YORK
-http://unlockyourtv.com:8000/charles/charles/1037
-#EXTINF:-1,CBS Orlando
-http://unlockyourtv.com:8000/charles/charles/2306
-#EXTINF:-1,CBS Phoenix
-http://unlockyourtv.com:8000/charles/charles/2307
-#EXTINF:-1,CBS Pittsburgh
-http://unlockyourtv.com:8000/charles/charles/2308
-#EXTINF:-1,CBS Sacramento
-http://unlockyourtv.com:8000/charles/charles/2309
-#EXTINF:-1,CBS San Antonio
-http://unlockyourtv.com:8000/charles/charles/2310
-#EXTINF:-1,CBS San Diego
-http://unlockyourtv.com:8000/charles/charles/2311
-#EXTINF:-1,CBS San Francisco
-http://unlockyourtv.com:8000/charles/charles/2312
-#EXTINF:-1,CBS Seattle
-http://unlockyourtv.com:8000/charles/charles/2313
-#EXTINF:-1,CBS Tampa
-http://unlockyourtv.com:8000/charles/charles/2315
-#EXTINF:-1,CBSN HD
-http://unlockyourtv.com:8000/charles/charles/611
-#EXTINF:-1,Cinemax Action Max HD
-http://unlockyourtv.com:8000/charles/charles/580
-#EXTINF:-1,Cinemax East
-http://unlockyourtv.com:8000/charles/charles/2068
-#EXTINF:-1,Cinemax West
-http://unlockyourtv.com:8000/charles/charles/2149
-#EXTINF:-1,CINEMAX MORE MAX
-http://unlockyourtv.com:8000/charles/charles/1163
-#EXTINF:-1,CINEMAX OUTER MAX
-http://unlockyourtv.com:8000/charles/charles/1158
-#EXTINF:-1,Cooking Channel
-http://unlockyourtv.com:8000/charles/charles/2142
-#EXTINF:-1,COMEDY CENTRAL HD
-http://unlockyourtv.com:8000/charles/charles/539
-#EXTINF:-1,COZI
-http://unlockyourtv.com:8000/charles/charles/2143
-#EXTINF:-1,CMT HD
-http://unlockyourtv.com:8000/charles/charles/1161
-#EXTINF:-1,CNBC
-http://unlockyourtv.com:8000/charles/charles/1100
-#EXTINF:-1,CNN HD
-http://unlockyourtv.com:8000/charles/charles/885
-#EXTINF:-1,CW
-http://unlockyourtv.com:8000/charles/charles/1148
-#EXTINF:-1,Destination America HD
-http://unlockyourtv.com:8000/charles/charles/541
-#EXTINF:-1,Disney East HD
-http://unlockyourtv.com:8000/charles/charles/2140
-#EXTINF:-1,DISNEY JUNIOR HD
-http://unlockyourtv.com:8000/charles/charles/604
-#EXTINF:-1,Disney XD HD
-http://unlockyourtv.com:8000/charles/charles/614
-#EXTINF:-1,DISCOVERY HD
-http://unlockyourtv.com:8000/charles/charles/542
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://unlockyourtv.com:8000/charles/charles/543
-#EXTINF:-1,DIY Network HD
-http://unlockyourtv.com:8000/charles/charles/1358
-#EXTINF:-1,E! HD
-http://unlockyourtv.com:8000/charles/charles/605
-#EXTINF:-1,EL REY HD
-http://unlockyourtv.com:8000/charles/charles/835
-#EXTINF:-1,Epix
-http://unlockyourtv.com:8000/charles/charles/2069
-#EXTINF:-1,FOOD NETWORK HD
-http://unlockyourtv.com:8000/charles/charles/836
-#EXTINF:-1,FOX HD
-http://unlockyourtv.com:8000/charles/charles/1112
-#EXTINF:-1,Fox News
-http://unlockyourtv.com:8000/charles/charles/1107
-#EXTINF:-1,Fox Business Network
-http://unlockyourtv.com:8000/charles/charles/900
-#EXTINF:-1,Fox Atlanta
-http://unlockyourtv.com:8000/charles/charles/1239
-#EXTINF:-1,FOX Austin
-http://unlockyourtv.com:8000/charles/charles/2316
-#EXTINF:-1,FOX 54 Augusta
-http://unlockyourtv.com:8000/charles/charles/1316
-#EXTINF:-1,FOX 25 BOSTON
-http://unlockyourtv.com:8000/charles/charles/1055
-#EXTINF:-1,FOX Buffalo
-http://unlockyourtv.com:8000/charles/charles/2319
-#EXTINF:-1,FOX Chicago
-http://unlockyourtv.com:8000/charles/charles/2320
-#EXTINF:-1,FOX Cleveland
-http://unlockyourtv.com:8000/charles/charles/2321
-#EXTINF:-1,FOX Columbus
-http://unlockyourtv.com:8000/charles/charles/2322
-#EXTINF:-1,FOX 4 DALLAS
-http://unlockyourtv.com:8000/charles/charles/1058
-#EXTINF:-1,FOX 5 D.C.
-http://unlockyourtv.com:8000/charles/charles/1061
-#EXTINF:-1,FOX Denver
-http://unlockyourtv.com:8000/charles/charles/2323
-#EXTINF:-1,FOX 2 DETROIT
-http://unlockyourtv.com:8000/charles/charles/1052
-#EXTINF:-1,FOX Hartford
-http://unlockyourtv.com:8000/charles/charles/2325
-#EXTINF:-1,FOX 26 HOUSTON
-http://unlockyourtv.com:8000/charles/charles/1056
-#EXTINF:-1,FOX Jacksonville
-http://unlockyourtv.com:8000/charles/charles/2327
-#EXTINF:-1,FOX Kansas City
-http://unlockyourtv.com:8000/charles/charles/2328
-#EXTINF:-1,FOX Los Angeles
-http://unlockyourtv.com:8000/charles/charles/2329
-#EXTINF:-1,FOX Miami
-http://unlockyourtv.com:8000/charles/charles/2330
-#EXTINF:-1,FOX Milwaukee
-http://unlockyourtv.com:8000/charles/charles/2331
-#EXTINF:-1,FOX Minneapolis
-http://unlockyourtv.com:8000/charles/charles/2332
-#EXTINF:-1,FOX Nashville
-http://unlockyourtv.com:8000/charles/charles/2333
-#EXTINF:-1,FOX 8 NEW ORLEANS
-http://unlockyourtv.com:8000/charles/charles/1066
-#EXTINF:-1,FOX New York
-http://unlockyourtv.com:8000/charles/charles/2334
-#EXTINF:-1,FOX Ocala
-http://unlockyourtv.com:8000/charles/charles/2335
-#EXTINF:-1,FOX Orlando
-http://unlockyourtv.com:8000/charles/charles/2336
-#EXTINF:-1,FOX Phoenix
-http://unlockyourtv.com:8000/charles/charles/2337
-#EXTINF:-1,FOX 29 PHILADELPHIA
-http://unlockyourtv.com:8000/charles/charles/1050
-#EXTINF:-1,FOX Sacramento
-http://unlockyourtv.com:8000/charles/charles/2339
-#EXTINF:-1,FOX Salt Lake City
-http://unlockyourtv.com:8000/charles/charles/2340
-#EXTINF:-1,FOX San Antonio
-http://unlockyourtv.com:8000/charles/charles/2341
-#EXTINF:-1,FOX San Francisco
-http://unlockyourtv.com:8000/charles/charles/2343
-#EXTINF:-1,FOX Seattle
-http://unlockyourtv.com:8000/charles/charles/2344
-#EXTINF:-1,FOX St Louis
-http://unlockyourtv.com:8000/charles/charles/2345
-#EXTINF:-1,FOX 13 TAMPA
-http://unlockyourtv.com:8000/charles/charles/1051
-#EXTINF:-1,FOX Washington
-http://unlockyourtv.com:8000/charles/charles/1242
-#EXTINF:-1,Freeform West
-http://unlockyourtv.com:8000/charles/charles/2157
-#EXTINF:-1,Fuse
-http://unlockyourtv.com:8000/charles/charles/2147
-#EXTINF:-1,Fusion
-http://unlockyourtv.com:8000/charles/charles/2148
-#EXTINF:-1,FX HD
-http://unlockyourtv.com:8000/charles/charles/1359
-#EXTINF:-1,FXM
-http://unlockyourtv.com:8000/charles/charles/1361
-#EXTINF:-1,FYI
-http://unlockyourtv.com:8000/charles/charles/2146
-#EXTINF:-1,Game Show Network
-http://unlockyourtv.com:8000/charles/charles/962
-#EXTINF:-1,HBO
-http://unlockyourtv.com:8000/charles/charles/616
-#EXTINF:-1,HBO East
-http://unlockyourtv.com:8000/charles/charles/2070
-#EXTINF:-1,HBO West
-http://unlockyourtv.com:8000/charles/charles/2150
-#EXTINF:-1,HBO Family
-http://unlockyourtv.com:8000/charles/charles/1417
-#EXTINF:-1,HBO ZONE HD
-http://unlockyourtv.com:8000/charles/charles/585
-#EXTINF:-1,HALLMARK HD
-http://unlockyourtv.com:8000/charles/charles/550
-#EXTINF:-1,HALLMARK MOVIE HD
-http://unlockyourtv.com:8000/charles/charles/569
-#EXTINF:-1,HGTV East
-http://unlockyourtv.com:8000/charles/charles/899
-#EXTINF:-1,History Channel HD
-http://unlockyourtv.com:8000/charles/charles/1428
-#EXTINF:-1,HSN
-http://unlockyourtv.com:8000/charles/charles/1165
-#EXTINF:-1,HLN
-http://unlockyourtv.com:8000/charles/charles/2153
-#EXTINF:-1,IFC
-http://unlockyourtv.com:8000/charles/charles/961
-#EXTINF:-1,INVESTIGATION DISCOVERY HD
-http://unlockyourtv.com:8000/charles/charles/552
-#EXTINF:-1,LMN HD
-http://unlockyourtv.com:8000/charles/charles/571
-#EXTINF:-1,LIFETIME HD
-http://unlockyourtv.com:8000/charles/charles/570
-#EXTINF:-1,MSNBC HD
-http://unlockyourtv.com:8000/charles/charles/576
-#EXTINF:-1,MTV HD
-http://unlockyourtv.com:8000/charles/charles/1099
-#EXTINF:-1,MTV 2
-http://unlockyourtv.com:8000/charles/charles/1159
-#EXTINF:-1,NAT GEO HD
-http://unlockyourtv.com:8000/charles/charles/1164
-#EXTINF:-1,NAT GEO WILD HD
-http://unlockyourtv.com:8000/charles/charles/573
-#EXTINF:-1,NBC
-http://unlockyourtv.com:8000/charles/charles/1611
-#EXTINF:-1,NBC 4 D.C.
-http://unlockyourtv.com:8000/charles/charles/1070
-#EXTINF:-1,NBC 5 DALLAS
-http://unlockyourtv.com:8000/charles/charles/1073
-#EXTINF:-1,NBC 4 LOS ANGELES
-http://unlockyourtv.com:8000/charles/charles/1068
-#EXTINF:-1,NBC 6 MIAMI
-http://unlockyourtv.com:8000/charles/charles/1074
-#EXTINF:-1,NBC 4 NEW YORK
-http://unlockyourtv.com:8000/charles/charles/1071
-#EXTINF:-1,NBC 10 PHILADELPHIA
-http://unlockyourtv.com:8000/charles/charles/1069
-#EXTINF:-1,NBC Raleigh
-http://unlockyourtv.com:8000/charles/charles/1616
-#EXTINF:-1,NBC 7 SAN DIEGO
-http://unlockyourtv.com:8000/charles/charles/1075
-#EXTINF:-1,NICK HD
-http://unlockyourtv.com:8000/charles/charles/555
-#EXTINF:-1,Nick Jr. HD
-http://unlockyourtv.com:8000/charles/charles/556
-#EXTINF:-1,Nicktoons HD
-http://unlockyourtv.com:8000/charles/charles/1630
-#EXTINF:-1,Paramount Network
-http://unlockyourtv.com:8000/charles/charles/1224
-#EXTINF:-1,POP HD
-http://unlockyourtv.com:8000/charles/charles/619
-#EXTINF:-1,Oxygen
-http://unlockyourtv.com:8000/charles/charles/574
-#EXTINF:-1,QVC
-http://unlockyourtv.com:8000/charles/charles/960
-#EXTINF:-1,OWN
-http://unlockyourtv.com:8000/charles/charles/1157
-#EXTINF:-1,Revolt
-http://unlockyourtv.com:8000/charles/charles/2152
-#EXTINF:-1,Showtime East
-http://unlockyourtv.com:8000/charles/charles/586
-#EXTINF:-1,Showtime West
-http://unlockyourtv.com:8000/charles/charles/2151
-#EXTINF:-1,SHOWTIME 2 HD
-http://unlockyourtv.com:8000/charles/charles/587
-#EXTINF:-1,SHOWTIME EXTREME
-http://unlockyourtv.com:8000/charles/charles/1160
-#EXTINF:-1,SUNDANCE TV HD
-http://unlockyourtv.com:8000/charles/charles/607
-#EXTINF:-1,Starz HD
-http://unlockyourtv.com:8000/charles/charles/1237
-#EXTINF:-1,Starz Comedy
-http://unlockyourtv.com:8000/charles/charles/1236
-#EXTINF:-1,Starz Encore
-http://unlockyourtv.com:8000/charles/charles/1238
-#EXTINF:-1,Starz Encore Western HD
-http://unlockyourtv.com:8000/charles/charles/1325
-#EXTINF:-1,SyFy
-http://unlockyourtv.com:8000/charles/charles/904
-#EXTINF:-1,TBS East
-http://unlockyourtv.com:8000/charles/charles/560
-#EXTINF:-1,TLC
-http://unlockyourtv.com:8000/charles/charles/638
-#EXTINF:-1,TNT HD
-http://unlockyourtv.com:8000/charles/charles/561
-#EXTINF:-1,Travel Channel
-http://unlockyourtv.com:8000/charles/charles/905
-#EXTINF:-1,TRU TV HD
-http://unlockyourtv.com:8000/charles/charles/563
-#EXTINF:-1,TV LAND HD
-http://unlockyourtv.com:8000/charles/charles/564
-#EXTINF:-1,TV One
-http://unlockyourtv.com:8000/charles/charles/886
-#EXTINF:-1,The Weather Channel HD
-http://unlockyourtv.com:8000/charles/charles/578
-#EXTINF:-1,USA Network East
-http://unlockyourtv.com:8000/charles/charles/565
-#EXTINF:-1,VELOCITY
-http://unlockyourtv.com:8000/charles/charles/1353
-#EXTINF:-1,VICELAND HD
-http://unlockyourtv.com:8000/charles/charles/567
-#EXTINF:-1,VH1 HD
-http://unlockyourtv.com:8000/charles/charles/566
-#EXTINF:-1,WE TV
-http://unlockyourtv.com:8000/charles/charles/1028
-#EXTINF:-1,WGN America HD
-http://unlockyourtv.com:8000/charles/charles/568
-#EXTINF:-1,Latino: A&E
-http://unlockyourtv.com:8000/charles/charles/1259
-#EXTINF:-1,Latino: AMC
-http://unlockyourtv.com:8000/charles/charles/1479
-#EXTINF:-1,Latino - Animal Planet
-http://unlockyourtv.com:8000/charles/charles/2414
-#EXTINF:-1,Latino: AXN
-http://unlockyourtv.com:8000/charles/charles/1379
-#EXTINF:-1,Latino: AZ Corazon
-http://unlockyourtv.com:8000/charles/charles/1381
-#EXTINF:-1,Latino: Az Mundo
-http://unlockyourtv.com:8000/charles/charles/1382
-#EXTINF:-1,Latino - Baby TV
-http://unlockyourtv.com:8000/charles/charles/2415
-#EXTINF:-1,Latino - BBC
-http://unlockyourtv.com:8000/charles/charles/2416
-#EXTINF:-1,Latino - Bloomberg
-http://unlockyourtv.com:8000/charles/charles/2417
-#EXTINF:-1,Latino:  Canal 10 Chetumal
-http://unlockyourtv.com:8000/charles/charles/1404
-#EXTINF:-1,Latino: Canal Once Mexico City
-http://unlockyourtv.com:8000/charles/charles/1394
-#EXTINF:-1,Latino: Capital 21 Mexico City
-http://unlockyourtv.com:8000/charles/charles/1395
-#EXTINF:-1,Latino - Cartoon Network
-http://unlockyourtv.com:8000/charles/charles/2418
-#EXTINF:-1,Latino: Comedy Central
-http://unlockyourtv.com:8000/charles/charles/1385
-#EXTINF:-1,Latino - Cine Canal
-http://unlockyourtv.com:8000/charles/charles/2419
-#EXTINF:-1,Latino - CineLatino
-http://unlockyourtv.com:8000/charles/charles/2420
-#EXTINF:-1,Latino - Cinemax
-http://unlockyourtv.com:8000/charles/charles/2421
-#EXTINF:-1,Latino - Depelicula
-http://unlockyourtv.com:8000/charles/charles/2422
-#EXTINF:-1,Latino - Discovery Channel
-http://unlockyourtv.com:8000/charles/charles/2423
-#EXTINF:-1,Latino - Discovery Familia
-http://unlockyourtv.com:8000/charles/charles/2424
-#EXTINF:-1,Latino - Discovery HH
-http://unlockyourtv.com:8000/charles/charles/2425
-#EXTINF:-1,Latino - Discovery ID
-http://unlockyourtv.com:8000/charles/charles/2426
-#EXTINF:-1,Latino - Discovery Kids
-http://unlockyourtv.com:8000/charles/charles/2427
-#EXTINF:-1,Latino - Discovery Science
-http://unlockyourtv.com:8000/charles/charles/2428
-#EXTINF:-1,Latino - Discovery Theater
-http://unlockyourtv.com:8000/charles/charles/2429
-#EXTINF:-1,Latino - Discovery Turbo
-http://unlockyourtv.com:8000/charles/charles/2430
-#EXTINF:-1,Latino - Discovery World
-http://unlockyourtv.com:8000/charles/charles/2431
-#EXTINF:-1,Latino - Disney Channel
-http://unlockyourtv.com:8000/charles/charles/2432
-#EXTINF:-1,Latino - Disney Jr.
-http://unlockyourtv.com:8000/charles/charles/2433
-#EXTINF:-1,Latino - Disney XD
-http://unlockyourtv.com:8000/charles/charles/2434
-#EXTINF:-1,Latino: Distrito Comedia
-http://unlockyourtv.com:8000/charles/charles/1495
-#EXTINF:-1,Latino: ESPN
-http://unlockyourtv.com:8000/charles/charles/1387
-#EXTINF:-1,Latino - ESPN Deportes
-http://unlockyourtv.com:8000/charles/charles/2435
-#EXTINF:-1,Latino: Fox
-http://unlockyourtv.com:8000/charles/charles/1483
-#EXTINF:-1,Latino - Fox Action
-http://unlockyourtv.com:8000/charles/charles/2436
-#EXTINF:-1,Latino - Fox Cinema
-http://unlockyourtv.com:8000/charles/charles/2437
-#EXTINF:-1,Latino - Fox Classics
-http://unlockyourtv.com:8000/charles/charles/2438
-#EXTINF:-1,Latino - Fox Comedy
-http://unlockyourtv.com:8000/charles/charles/2439
-#EXTINF:-1,Latino: Fox Deportes
-http://unlockyourtv.com:8000/charles/charles/1183
-#EXTINF:-1,Latino - Fox Family
-http://unlockyourtv.com:8000/charles/charles/2440
-#EXTINF:-1,Latino - Fox Life
-http://unlockyourtv.com:8000/charles/charles/2441
-#EXTINF:-1,Latino - Fox Movies
-http://unlockyourtv.com:8000/charles/charles/2442
-#EXTINF:-1,Latino - Fox One
-http://unlockyourtv.com:8000/charles/charles/2443
-#EXTINF:-1,Latino: Fox Premium Movies
-http://unlockyourtv.com:8000/charles/charles/1486
-#EXTINF:-1,Latino - Fox Sports
-http://unlockyourtv.com:8000/charles/charles/2444
-#EXTINF:-1,Latino - Fox Sports 2
-http://unlockyourtv.com:8000/charles/charles/2445
-#EXTINF:-1,Latino - Fox Sports 3
-http://unlockyourtv.com:8000/charles/charles/2446
-#EXTINF:-1,Latino - FX
-http://unlockyourtv.com:8000/charles/charles/2447
-#EXTINF:-1,Latino: FXM
-http://unlockyourtv.com:8000/charles/charles/1487
-#EXTINF:-1,Latino - Galavision
-http://unlockyourtv.com:8000/charles/charles/2448
-#EXTINF:-1,Latino: Gala TV
-http://unlockyourtv.com:8000/charles/charles/1488
-#EXTINF:-1,Latino - Glitz
-http://unlockyourtv.com:8000/charles/charles/2449
-#EXTINF:-1,Latino - Golden
-http://unlockyourtv.com:8000/charles/charles/2450
-#EXTINF:-1,Latino - GOLTV
-http://unlockyourtv.com:8000/charles/charles/2451
-#EXTINF:-1,Latino - Gourmet
-http://unlockyourtv.com:8000/charles/charles/2452
-#EXTINF:-1,Latino - HBO
-http://unlockyourtv.com:8000/charles/charles/2453
-#EXTINF:-1,Latino - HBO 2
-http://unlockyourtv.com:8000/charles/charles/2454
-#EXTINF:-1,Latino - HBO Family
-http://unlockyourtv.com:8000/charles/charles/2455
-#EXTINF:-1,Latino - HBO Signature
-http://unlockyourtv.com:8000/charles/charles/2456
-#EXTINF:-1,Latino: History
-http://unlockyourtv.com:8000/charles/charles/1496
-#EXTINF:-1,Latino - History 2
-http://unlockyourtv.com:8000/charles/charles/2457
-#EXTINF:-1,Latino: Más Chic
-http://unlockyourtv.com:8000/charles/charles/1497
-#EXTINF:-1,Latino - Max Prime
-http://unlockyourtv.com:8000/charles/charles/2458
-#EXTINF:-1,Latino - Max UP
-http://unlockyourtv.com:8000/charles/charles/2459
-#EXTINF:-1,Latino: Mexiquense Toluca
-http://unlockyourtv.com:8000/charles/charles/1396
-#EXTINF:-1,Latino - Nat Geo
-http://unlockyourtv.com:8000/charles/charles/2460
-#EXTINF:-1,Latino - Nat Geo Kids
-http://unlockyourtv.com:8000/charles/charles/2461
-#EXTINF:-1,Latino - Nat Geo Wild
-http://unlockyourtv.com:8000/charles/charles/2462
-#EXTINF:-1,Latino - Nick Jr.
-http://unlockyourtv.com:8000/charles/charles/2463
-#EXTINF:-1,Latino - Nickelodeon
-http://unlockyourtv.com:8000/charles/charles/2464
-#EXTINF:-1,Latino - Sony
-http://unlockyourtv.com:8000/charles/charles/2465
-#EXTINF:-1,Latino - Space
-http://unlockyourtv.com:8000/charles/charles/2466
-#EXTINF:-1,Latino - Studio Universal
-http://unlockyourtv.com:8000/charles/charles/2467
-#EXTINF:-1,Latino - TBS
-http://unlockyourtv.com:8000/charles/charles/2468
-#EXTINF:-1,Latino: Telemundo New York
-http://unlockyourtv.com:8000/charles/charles/1637
-#EXTINF:-1,Latino - TLC
-http://unlockyourtv.com:8000/charles/charles/2469
-#EXTINF:-1,Latino - TNT Series
-http://unlockyourtv.com:8000/charles/charles/2470
-#EXTINF:-1,Latino - Toon Cast
-http://unlockyourtv.com:8000/charles/charles/2471
-#EXTINF:-1,Latino - TRU TV
-http://unlockyourtv.com:8000/charles/charles/2472
-#EXTINF:-1,Latino - Unimas
-http://unlockyourtv.com:8000/charles/charles/2473
-#EXTINF:-1,Latino - Universal
-http://unlockyourtv.com:8000/charles/charles/2474
-#EXTINF:-1,Latino: Univision Network
-http://unlockyourtv.com:8000/charles/charles/1424
-#EXTINF:-1,Latino - UTDN
-http://unlockyourtv.com:8000/charles/charles/2475
-#EXTINF:-1,Latino - Warner
-http://unlockyourtv.com:8000/charles/charles/2476
-#EXTINF:-1,Latino: Wapa
-http://unlockyourtv.com:8000/charles/charles/1080
-#EXTINF:-1,CA: CTV Toronto HD
-http://unlockyourtv.com:8000/charles/charles/1621
-#EXTINF:-1,MUSIC CHOICE - Musica Urbana
-http://unlockyourtv.com:8000/charles/charles/1730
-#EXTINF:-1,Music choice: Y2K
-http://unlockyourtv.com:8000/charles/charles/1742
-#EXTINF:-1,MUSIC VIDEOS 90s
-http://unlockyourtv.com:8000/charles/charles/1731
-#EXTINF:-1,MUSIC VIDEOS ALTERNATIVE
-http://unlockyourtv.com:8000/charles/charles/1732
-#EXTINF:-1,MUSIC VIDEOS HIP HOP and R&B
-http://unlockyourtv.com:8000/charles/charles/1733
-#EXTINF:-1,MUSIC VIDEOS HIT LIST
-http://unlockyourtv.com:8000/charles/charles/1734
-#EXTINF:-1,MUSIC VIDEOS LATINO POP
-http://unlockyourtv.com:8000/charles/charles/1735
-#EXTINF:-1,MUSIC VIDEOS Rap 2K
-http://unlockyourtv.com:8000/charles/charles/1736
-#EXTINF:-1,MUSIC VIDEOS POP HITS
-http://unlockyourtv.com:8000/charles/charles/1737
-#EXTINF:-1,MUSIC VIDEOS ROCK
-http://unlockyourtv.com:8000/charles/charles/1738
-#EXTINF:-1,MUSIC VIDEOS TEEN BEATS
-http://unlockyourtv.com:8000/charles/charles/1739
-#EXTINF:-1,MUSIC VIDEOS Todays Country
-http://unlockyourtv.com:8000/charles/charles/2413
-#EXTINF:-1,PPV Cinema 1
-http://unlockyourtv.com:8000/charles/charles/2180
-#EXTINF:-1,PPV Cinema 2
-http://unlockyourtv.com:8000/charles/charles/2181
-#EXTINF:-1,PPV Cinema 3
-http://unlockyourtv.com:8000/charles/charles/2182
-#EXTINF:-1,PPV Cinema 04
-http://unlockyourtv.com:8000/charles/charles/2183
-#EXTINF:-1,PPV Cinema 05
-http://unlockyourtv.com:8000/charles/charles/2184
-#EXTINF:-1,PPV Cinema 06
-http://unlockyourtv.com:8000/charles/charles/2185
-#EXTINF:-1,PPV Cinema 07
-http://unlockyourtv.com:8000/charles/charles/2186
-#EXTINF:-1,PPV Cinema 08
-http://unlockyourtv.com:8000/charles/charles/2187
-#EXTINF:-1,PPV Cinema 09
-http://unlockyourtv.com:8000/charles/charles/2188
-#EXTINF:-1,PPV Cinema 10
-http://unlockyourtv.com:8000/charles/charles/2189
-#EXTINF:-1,PPV Cinema 11
-http://unlockyourtv.com:8000/charles/charles/2190
-#EXTINF:-1,PPV Cinema 12
-http://unlockyourtv.com:8000/charles/charles/2191
-#EXTINF:-1,PPV Cinema 13
-http://unlockyourtv.com:8000/charles/charles/2192
-#EXTINF:-1,PPV Cinema 14
-http://unlockyourtv.com:8000/charles/charles/2193
-#EXTINF:-1,PPV Cinema 15
-http://unlockyourtv.com:8000/charles/charles/2194
-#EXTINF:-1,PPV Cinema 16
-http://unlockyourtv.com:8000/charles/charles/2195
-#EXTINF:-1,PPV Cinema 17
-http://unlockyourtv.com:8000/charles/charles/2196
-#EXTINF:-1,PPV Cinema 18
-http://unlockyourtv.com:8000/charles/charles/2197
-#EXTINF:-1,PPV Cinema 19
-http://unlockyourtv.com:8000/charles/charles/2198
-#EXTINF:-1,PPV Cinema 20
-http://unlockyourtv.com:8000/charles/charles/2199
-#EXTINF:-1,PPV Cinema 21
-http://unlockyourtv.com:8000/charles/charles/2200
-#EXTINF:-1,PPV Cinema 22
-http://unlockyourtv.com:8000/charles/charles/2201
-#EXTINF:-1,PPV Cinema 23
-http://unlockyourtv.com:8000/charles/charles/2202
-#EXTINF:-1,PPV Cinema 24
-http://unlockyourtv.com:8000/charles/charles/2203
-#EXTINF:-1,PPV Cinema 25
-http://unlockyourtv.com:8000/charles/charles/2204
-#EXTINF:-1,PPV Cinema 26
-http://unlockyourtv.com:8000/charles/charles/2205
-#EXTINF:-1,PPV Cinema 27
-http://unlockyourtv.com:8000/charles/charles/2206
-#EXTINF:-1,PPV Cinema 28
-http://unlockyourtv.com:8000/charles/charles/2207
-#EXTINF:-1,PPV Cinema 29
-http://unlockyourtv.com:8000/charles/charles/2208
-#EXTINF:-1,PPV Cinema 30
-http://unlockyourtv.com:8000/charles/charles/2209
-#EXTINF:-1,PPV Cinema 31
-http://unlockyourtv.com:8000/charles/charles/2210
-#EXTINF:-1,PPV Cinema 32
-http://unlockyourtv.com:8000/charles/charles/2211
-#EXTINF:-1,PPV Cinema 33
-http://unlockyourtv.com:8000/charles/charles/2212
-#EXTINF:-1,PPV Cinema 34
-http://unlockyourtv.com:8000/charles/charles/2213
-#EXTINF:-1,PPV Cinema 35
-http://unlockyourtv.com:8000/charles/charles/2214
-#EXTINF:-1,PPV Cinema 36
-http://unlockyourtv.com:8000/charles/charles/2215
-#EXTINF:-1,PPV Cinema 38
-http://unlockyourtv.com:8000/charles/charles/2216
-#EXTINF:-1,PPV Cinema 39
-http://unlockyourtv.com:8000/charles/charles/2217
-#EXTINF:-1,PPV Cinema 40
-http://unlockyourtv.com:8000/charles/charles/2218
-#EXTINF:-1,PPV Cinema 41
-http://unlockyourtv.com:8000/charles/charles/2219
-#EXTINF:-1,PPV: UFC 2
-http://unlockyourtv.com:8000/charles/charles/2220
-#EXTINF:-1,UFC Fight Pass 2
-http://unlockyourtv.com:8000/charles/charles/2221
-#EXTINF:-1,PPV: UFC 1
-http://unlockyourtv.com:8000/charles/charles/2222
-#EXTINF:-1,UFC TV
-http://unlockyourtv.com:8000/charles/charles/2223
-#EXTINF:-1,PPV: UFC
-http://unlockyourtv.com:8000/charles/charles/2224
-#EXTINF:-1,Bein Sports
-http://unlockyourtv.com:8000/charles/charles/2144
-#EXTINF:-1,BTN HD
-http://unlockyourtv.com:8000/charles/charles/579
-#EXTINF:-1,CSN CALIFORNIA
-http://unlockyourtv.com:8000/charles/charles/1043
-#EXTINF:-1,ESPN HD
-http://unlockyourtv.com:8000/charles/charles/594
-#EXTINF:-1,ESPN 2 HD
-http://unlockyourtv.com:8000/charles/charles/597
-#EXTINF:-1,Fox Sports 1
-http://unlockyourtv.com:8000/charles/charles/893
-#EXTINF:-1,Fox Sports 2
-http://unlockyourtv.com:8000/charles/charles/894
-#EXTINF:-1,FOX Collage Sports Atlantic
-http://unlockyourtv.com:8000/charles/charles/1007
-#EXTINF:-1,FOX Collage Sports Central
-http://unlockyourtv.com:8000/charles/charles/1008
-#EXTINF:-1,FOX Collage Sports Pacific
-http://unlockyourtv.com:8000/charles/charles/1009
-#EXTINF:-1,FOX Sports Arizona
-http://unlockyourtv.com:8000/charles/charles/1011
-#EXTINF:-1,FOX Sports Detroit
-http://unlockyourtv.com:8000/charles/charles/1012
-#EXTINF:-1,FOX Sports Carolinas
-http://unlockyourtv.com:8000/charles/charles/1020
-#EXTINF:-1,FOX Sports Midwest
-http://unlockyourtv.com:8000/charles/charles/1021
-#EXTINF:-1,FOX Sports New Orleans
-http://unlockyourtv.com:8000/charles/charles/1022
-#EXTINF:-1,FOX Sports North
-http://unlockyourtv.com:8000/charles/charles/1023
-#EXTINF:-1,FOX Sports North Plus
-http://unlockyourtv.com:8000/charles/charles/1024
-#EXTINF:-1,FOX Sports Ohio
-http://unlockyourtv.com:8000/charles/charles/1025
-#EXTINF:-1,Fox Sports San Diego
-http://unlockyourtv.com:8000/charles/charles/1015
-#EXTINF:-1,FOX Sports SouthWest
-http://unlockyourtv.com:8000/charles/charles/1016
-#EXTINF:-1,Fox Sports SouthWest Plus
-http://unlockyourtv.com:8000/charles/charles/1017
-#EXTINF:-1,FOX Sports SUN
-http://unlockyourtv.com:8000/charles/charles/1018
-#EXTINF:-1,FOX Sports West
-http://unlockyourtv.com:8000/charles/charles/1019
-#EXTINF:-1,Fox Soccer Plus
-http://unlockyourtv.com:8000/charles/charles/1223
-#EXTINF:-1,LongHorn Netwrok
-http://unlockyourtv.com:8000/charles/charles/2166
-#EXTINF:-1,MAV TV
-http://unlockyourtv.com:8000/charles/charles/1067
+#EXTINF:-1,~ USA TV ~
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,MSNBC (HD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,MSNBC (SD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+#EXTINF:-1,MSNBC (SD)*
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
+#EXTINF:-1,Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1,Bloomberg TV*
+http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
+#EXTINF:-1,Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+#EXTINF:-1,Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1,C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+#EXTINF:-1,C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+#EXTINF:-1,C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:-1,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1,The Blaze
+https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+#EXTINF:-1,InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:-1,RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
 #EXTINF:-1,MLB Network
-http://unlockyourtv.com:8000/charles/charles/327
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,MLB Network*
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
 #EXTINF:-1,NBA TV
-http://unlockyourtv.com:8000/charles/charles/1426
-#EXTINF:-1,NBC Golf
-http://unlockyourtv.com:8000/charles/charles/111
-#EXTINF:-1,NBC Sports Network
-http://unlockyourtv.com:8000/charles/charles/986
-#EXTINF:-1,NESN
-http://unlockyourtv.com:8000/charles/charles/1108
-#EXTINF:-1,NFL Network
-http://unlockyourtv.com:8000/charles/charles/1082
-#EXTINF:-1,Outdoor Channel HD
-http://unlockyourtv.com:8000/charles/charles/1609
-#EXTINF:-1,Pac 12 Bay Area
-http://unlockyourtv.com:8000/charles/charles/459
-#EXTINF:-1,Pac 12 Los Angeles
-http://unlockyourtv.com:8000/charles/charles/460
-#EXTINF:-1,Pac 12 Oregon
-http://unlockyourtv.com:8000/charles/charles/463
-#EXTINF:-1,PAC 12 Washington
-http://unlockyourtv.com:8000/charles/charles/2263
-#EXTINF:-1,Tennis Channel
-http://unlockyourtv.com:8000/charles/charles/1105
-#EXTINF:-1,TSN 1 HD
-http://unlockyourtv.com:8000/charles/charles/119
-#EXTINF:-1,TSN 2 HD
-http://unlockyourtv.com:8000/charles/charles/1083
-#EXTINF:-1,TSN 3 HD
-http://unlockyourtv.com:8000/charles/charles/1084
-#EXTINF:-1,TSN 4 HD
-http://unlockyourtv.com:8000/charles/charles/1085
-#EXTINF:-1,TSN 5 HD
-http://unlockyourtv.com:8000/charles/charles/115
-#EXTINF:-1,SEC NETWORK
-http://unlockyourtv.com:8000/charles/charles/601
-#EXTINF:-1,Sports Net 360 HD
-http://unlockyourtv.com:8000/charles/charles/1094
-#EXTINF:-1,Sports Net Pacific
-http://unlockyourtv.com:8000/charles/charles/1097
-#EXTINF:-1,Sports Net World HD
-http://unlockyourtv.com:8000/charles/charles/1096
-#EXTINF:-1,WWE Network HD
-http://unlockyourtv.com:8000/charles/charles/602
-#EXTINF:-1,YES NETWORK
-http://unlockyourtv.com:8000/charles/charles/1166
-#EXTINF:-1,American Dad 24/7
-http://unlockyourtv.com:8000/charles/charles/735
-#EXTINF:-1,American Gods 24/7
-http://unlockyourtv.com:8000/charles/charles/2518
-#EXTINF:-1,Arrested Development 24/7
-http://unlockyourtv.com:8000/charles/charles/736
-#EXTINF:-1,Avatar 24/7
-http://unlockyourtv.com:8000/charles/charles/737
-#EXTINF:-1,Adventure Time 24/7
-http://unlockyourtv.com:8000/charles/charles/740
-#EXTINF:-1,Back To The Future Movies 24/7
-http://unlockyourtv.com:8000/charles/charles/2519
-#EXTINF:-1,Band Of Brothers 24/7
-http://unlockyourtv.com:8000/charles/charles/2520
-#EXTINF:-1,Batman 1966 24/7
-http://unlockyourtv.com:8000/charles/charles/741
-#EXTINF:-1,BATMAN Brave and the Bold 24/7
-http://unlockyourtv.com:8000/charles/charles/742
-#EXTINF:-1,Batman the Animated Series 24/7
-http://unlockyourtv.com:8000/charles/charles/743
-#EXTINF:-1,Black Mirror 24/7
-http://unlockyourtv.com:8000/charles/charles/2521
-#EXTINF:-1,Bobs burgers 24/7
-http://unlockyourtv.com:8000/charles/charles/744
-#EXTINF:-1,BREAKING BAD 24/7
-http://unlockyourtv.com:8000/charles/charles/745
-#EXTINF:-1,Bruce Lee 24/7
-http://unlockyourtv.com:8000/charles/charles/2508
-#EXTINF:-1,Bugs Bunny Classics 24/7
-http://unlockyourtv.com:8000/charles/charles/2509
-#EXTINF:-1,Buffy the Vampire Slayer 24/7
-http://unlockyourtv.com:8000/charles/charles/746
-#EXTINF:-1,Charles In Charge 24/7
-http://unlockyourtv.com:8000/charles/charles/1229
-#EXTINF:-1,Cheers 24/7
-http://unlockyourtv.com:8000/charles/charles/747
-#EXTINF:-1,Chris Rock Stand Up 24/7
-http://unlockyourtv.com:8000/charles/charles/748
-#EXTINF:-1,Curb Your Enthusiasm 24/7
-http://unlockyourtv.com:8000/charles/charles/749
-#EXTINF:-1,DALLAS 24/7
-http://unlockyourtv.com:8000/charles/charles/750
-#EXTINF:-1,DEXTER 24/7
-http://unlockyourtv.com:8000/charles/charles/1139
-#EXTINF:-1,Disney 24/7
-http://unlockyourtv.com:8000/charles/charles/751
-#EXTINF:-1,Disney Classics 24/7
-http://unlockyourtv.com:8000/charles/charles/2510
-#EXTINF:-1,Dr Who 24/7
-http://unlockyourtv.com:8000/charles/charles/752
-#EXTINF:-1,Downton Abbey 24/7
-http://unlockyourtv.com:8000/charles/charles/1140
-#EXTINF:-1,Dragon Ball Z 24/7
-http://unlockyourtv.com:8000/charles/charles/753
-#EXTINF:-1,Entourage 24/7
-http://unlockyourtv.com:8000/charles/charles/754
-#EXTINF:-1,Fargo 24/7
-http://unlockyourtv.com:8000/charles/charles/756
-#EXTINF:-1,Fast And Furious Movies 24/7
-http://unlockyourtv.com:8000/charles/charles/2522
-#EXTINF:-1,Fireman Sam 24/7
-http://unlockyourtv.com:8000/charles/charles/1141
-#EXTINF:-1,Frasier 24/7
-http://unlockyourtv.com:8000/charles/charles/757
-#EXTINF:-1,Fresh Prince of Bel Air 24/7
-http://unlockyourtv.com:8000/charles/charles/758
-#EXTINF:-1,Friends 24/7
-http://unlockyourtv.com:8000/charles/charles/759
-#EXTINF:-1,Futurama 24/7
-http://unlockyourtv.com:8000/charles/charles/760
-#EXTINF:-1,Game of Thrones 24/7
-http://unlockyourtv.com:8000/charles/charles/761
-#EXTINF:-1,Glow 24/7
-http://unlockyourtv.com:8000/charles/charles/827
-#EXTINF:-1,Gotham 24/7
-http://unlockyourtv.com:8000/charles/charles/762
-#EXTINF:-1,Happy Days 24/7
-http://unlockyourtv.com:8000/charles/charles/763
-#EXTINF:-1,Harry Potter Movies 24/7
-http://unlockyourtv.com:8000/charles/charles/2523
-#EXTINF:-1,House of Cards 24/7
-http://unlockyourtv.com:8000/charles/charles/1142
-#EXTINF:-1,Jason Bourne 24/7
-http://unlockyourtv.com:8000/charles/charles/2511
-#EXTINF:-1,Jimmy Carr Stand up 24/7
-http://unlockyourtv.com:8000/charles/charles/764
-#EXTINF:-1,Johny Test 24/7
-http://unlockyourtv.com:8000/charles/charles/765
-#EXTINF:-1,Jurassic Park Movies 24/7
-http://unlockyourtv.com:8000/charles/charles/2524
-#EXTINF:-1,Kaige Mathew
-http://unlockyourtv.com:8000/charles/charles/1087
-#EXTINF:-1,Kevin Hart Stand Up 24/7
-http://unlockyourtv.com:8000/charles/charles/766
-#EXTINF:-1,King of the Hill 24/7
-http://unlockyourtv.com:8000/charles/charles/767
-#EXTINF:-1,Knight Rider 24/7
-http://unlockyourtv.com:8000/charles/charles/1143
-#EXTINF:-1,Lethal Weapon Movies 24/7
-http://unlockyourtv.com:8000/charles/charles/2525
-#EXTINF:-1,Life on Mars 24/7
-http://unlockyourtv.com:8000/charles/charles/768
-#EXTINF:-1,Looney Tunes 24/7
-http://unlockyourtv.com:8000/charles/charles/769
-#EXTINF:-1,DAREDEVIL 24/7
-http://unlockyourtv.com:8000/charles/charles/808
-#EXTINF:-1,Malcolm in the Middle 24/7
-http://unlockyourtv.com:8000/charles/charles/770
-#EXTINF:-1,Married with Children 24/7
-http://unlockyourtv.com:8000/charles/charles/771
-#EXTINF:-1,Marvels Iron Fist 24/7
-http://unlockyourtv.com:8000/charles/charles/2512
-#EXTINF:-1,Master of None 24/7
-http://unlockyourtv.com:8000/charles/charles/772
-#EXTINF:-1,Men Behaving Badly  24/7
-http://unlockyourtv.com:8000/charles/charles/773
-#EXTINF:-1,Michael McIntyre Stand Up 24/7
-http://unlockyourtv.com:8000/charles/charles/774
-#EXTINF:-1,Micky flanagan Stand Up 24/7
-http://unlockyourtv.com:8000/charles/charles/775
-#EXTINF:-1,Mindhunter 24/7
-http://unlockyourtv.com:8000/charles/charles/776
-#EXTINF:-1,Mr Bean 24/7
-http://unlockyourtv.com:8000/charles/charles/777
-#EXTINF:-1,Orange Is the New Black 24/7
-http://unlockyourtv.com:8000/charles/charles/814
-#EXTINF:-1,Ozark 24/7
-http://unlockyourtv.com:8000/charles/charles/778
-#EXTINF:-1,Paw Patrol 24/7
-http://unlockyourtv.com:8000/charles/charles/779
-#EXTINF:-1,Peppa Pig 24/7
-http://unlockyourtv.com:8000/charles/charles/739
-#EXTINF:-1,Peter Kay Stand Up 24/7
-http://unlockyourtv.com:8000/charles/charles/780
-#EXTINF:-1,Peter Kay's Phoenix Nights 24/7
-http://unlockyourtv.com:8000/charles/charles/781
-#EXTINF:-1,Pokemon 24/7
-http://unlockyourtv.com:8000/charles/charles/782
-#EXTINF:-1,POPEYE 24/7
-http://unlockyourtv.com:8000/charles/charles/783
-#EXTINF:-1,Power 24/7
-http://unlockyourtv.com:8000/charles/charles/2513
-#EXTINF:-1,Prison Break 24/7
-http://unlockyourtv.com:8000/charles/charles/809
-#EXTINF:-1,RICK and MORTY 24/7
-http://unlockyourtv.com:8000/charles/charles/1427
-#EXTINF:-1,Ricky Gervais Stand Up 24/7
-http://unlockyourtv.com:8000/charles/charles/784
-#EXTINF:-1,Roseanne 24/7
-http://unlockyourtv.com:8000/charles/charles/785
-#EXTINF:-1,Rugrats 24/7
-http://unlockyourtv.com:8000/charles/charles/738
-#EXTINF:-1,Saved By The Bell 24/7
-http://unlockyourtv.com:8000/charles/charles/1231
-#EXTINF:-1,Scobby  Doo 24/7
-http://unlockyourtv.com:8000/charles/charles/786
-#EXTINF:-1,Scream Queens 24/7
-http://unlockyourtv.com:8000/charles/charles/815
-#EXTINF:-1,Sex in the city 24/7
-http://unlockyourtv.com:8000/charles/charles/787
-#EXTINF:-1,Sherlock 24/7
-http://unlockyourtv.com:8000/charles/charles/788
-#EXTINF:-1,Simpsons:Treehouse of Horror 24/7
-http://unlockyourtv.com:8000/charles/charles/789
-#EXTINF:-1,South Park 24/7
-http://unlockyourtv.com:8000/charles/charles/790
-#EXTINF:-1,Spider Man 24/7
-http://unlockyourtv.com:8000/charles/charles/791
-#EXTINF:-1,Spongebob 24/7
-http://unlockyourtv.com:8000/charles/charles/1147
-#EXTINF:-1,Srcubs 24/7
-http://unlockyourtv.com:8000/charles/charles/810
-#EXTINF:-1,Stranger Things 24/7
-http://unlockyourtv.com:8000/charles/charles/811
-#EXTINF:-1,The Batman 24/7
-http://unlockyourtv.com:8000/charles/charles/792
-#EXTINF:-1,The Big Bang Theory 24/7
-http://unlockyourtv.com:8000/charles/charles/812
-#EXTINF:-1,The Flash 24/7
-http://unlockyourtv.com:8000/charles/charles/1144
-#EXTINF:-1,The Flintstones 24/7
-http://unlockyourtv.com:8000/charles/charles/793
-#EXTINF:-1,The Goldbergs 24/7
-http://unlockyourtv.com:8000/charles/charles/816
-#EXTINF:-1,The Golden Girls 24/7
-http://unlockyourtv.com:8000/charles/charles/794
-#EXTINF:-1,The Good Place 24/7
-http://unlockyourtv.com:8000/charles/charles/795
-#EXTINF:-1,The IT Crowd 24/7
-http://unlockyourtv.com:8000/charles/charles/797
-#EXTINF:-1,The Munsters 24/7
-http://unlockyourtv.com:8000/charles/charles/799
-#EXTINF:-1,The Regular Show 24/7
-http://unlockyourtv.com:8000/charles/charles/828
-#EXTINF:-1,The Simpsons 24/7
-http://unlockyourtv.com:8000/charles/charles/800
-#EXTINF:-1,The Sopranos 24/7
-http://unlockyourtv.com:8000/charles/charles/801
-#EXTINF:-1,The Spectacular Spider man 24/7
-http://unlockyourtv.com:8000/charles/charles/802
-#EXTINF:-1,The Walking Dead 24/7
-http://unlockyourtv.com:8000/charles/charles/803
-#EXTINF:-1,The Wire 24/7
-http://unlockyourtv.com:8000/charles/charles/2514
-#EXTINF:-1,The Wonder Years 24/7
-http://unlockyourtv.com:8000/charles/charles/2515
-#EXTINF:-1,TMNT 1987 24/7
-http://unlockyourtv.com:8000/charles/charles/2516
-#EXTINF:-1,True Blood 24/7
-http://unlockyourtv.com:8000/charles/charles/1145
-#EXTINF:-1,Two and a Half Men 24/7
-http://unlockyourtv.com:8000/charles/charles/1146
-#EXTINF:-1,US Stand Up 24/7
-http://unlockyourtv.com:8000/charles/charles/806
-#EXTINF:-1,Van Damme Movies 24/7
-http://unlockyourtv.com:8000/charles/charles/2526
-#EXTINF:-1,Westworld 24/7
-http://unlockyourtv.com:8000/charles/charles/2179
-#EXTINF:-1,Will and Grace 24/7
-http://unlockyourtv.com:8000/charles/charles/813
-#EXTINF:-1,Wrestle Mania 24/7
-http://unlockyourtv.com:8000/charles/charles/807
-#EXTINF:-1,WXIA 11 Atlanta
-http://unlockyourtv.com:8000/charles/charles/1311
-#EXTINF:-1,NBC News 13 (Albany)
-http://unlockyourtv.com:8000/charles/charles/1347
-#EXTINF:-1,NBC News Channel 13 WNYT-TV (Albany)
-http://unlockyourtv.com:8000/charles/charles/1303
-#EXTINF:-1,KOB4 News (Albuquerque)
-http://unlockyourtv.com:8000/charles/charles/1271
-#EXTINF:-1,WHDH 7 Boston
-http://unlockyourtv.com:8000/charles/charles/1319
-#EXTINF:-1,NewsChannel 12 KTVZ (Central Oregon)
-http://unlockyourtv.com:8000/charles/charles/1305
-#EXTINF:-1,WBTV News (Charlotte)
-http://unlockyourtv.com:8000/charles/charles/1299
-#EXTINF:-1,WCCB News (Charlotte)
-http://unlockyourtv.com:8000/charles/charles/1350
-#EXTINF:-1,WCCB News Rising (Charlotte)
-http://unlockyourtv.com:8000/charles/charles/1298
-#EXTINF:-1,NBC 5 News (Chicago)
-http://unlockyourtv.com:8000/charles/charles/1351
-#EXTINF:-1,NBC4i News WCMH-TV (Columbus)
-http://unlockyourtv.com:8000/charles/charles/1280
-#EXTINF:-1,NewsWest 9 KWES (Midland, Odessa, Big Spring, TX)
-http://unlockyourtv.com:8000/charles/charles/1304
-#EXTINF:-1,WXXV News 25 (Mississippi)
-http://unlockyourtv.com:8000/charles/charles/1342
-#EXTINF:-1,PIX 11 News (New York)
-http://unlockyourtv.com:8000/charles/charles/1349
-#EXTINF:-1,News Channel 21 (Oregon)
-http://unlockyourtv.com:8000/charles/charles/1343
-#EXTINF:-1,Channel 11 News WPXI (Pittsburgh)
-http://unlockyourtv.com:8000/charles/charles/1344
-#EXTINF:-1,NBC 12 News WWBT-TV (Richmond and Central Virginia)
-http://unlockyourtv.com:8000/charles/charles/1286
-#EXTINF:-1,King 5 News (Seattle)
-http://unlockyourtv.com:8000/charles/charles/1346
-#EXTINF:-1,WSAV 3 Savannah
-http://unlockyourtv.com:8000/charles/charles/1312
-#EXTINF:-1,WTGS 28 Savannah
-http://unlockyourtv.com:8000/charles/charles/1315
-#EXTINF:-1,WTOC 11 Savannah
-http://unlockyourtv.com:8000/charles/charles/1313
-#EXTINF:-1,TSTV News
-http://unlockyourtv.com:8000/charles/charles/1302
-#EXTINF:-1,CA: AMC
-http://unlockyourtv.com:8000/charles/charles/1364
-#EXTINF:-1,CA: Animal Planet
-http://unlockyourtv.com:8000/charles/charles/1365
-#EXTINF:-1,CA: BNN
-http://unlockyourtv.com:8000/charles/charles/1366
-#EXTINF:-1,CA: Bravo HD
-http://unlockyourtv.com:8000/charles/charles/1367
-#EXTINF:-1,CA: CBC Edmonton HD
-http://unlockyourtv.com:8000/charles/charles/1623
-#EXTINF:-1,CA: CBC Montreal HD
-http://unlockyourtv.com:8000/charles/charles/1625
-#EXTINF:-1,CA: CBC Ottawa HD
-http://unlockyourtv.com:8000/charles/charles/1626
-#EXTINF:-1,CA: CBC Toronto HD
-http://unlockyourtv.com:8000/charles/charles/1627
-#EXTINF:-1,CA: CBC Vancouver HD
-http://unlockyourtv.com:8000/charles/charles/1628
-#EXTINF:-1,CA: CBC Winnipeg HD
-http://unlockyourtv.com:8000/charles/charles/1629
-#EXTINF:-1,CA: CBS
-http://unlockyourtv.com:8000/charles/charles/1408
-#EXTINF:-1,CA: Comedy Gold HD
-http://unlockyourtv.com:8000/charles/charles/1411
-#EXTINF:-1,CA: CMT HD
-http://unlockyourtv.com:8000/charles/charles/1410
-#EXTINF:-1,CA: Global Vancouver
-http://unlockyourtv.com:8000/charles/charles/1375
-#EXTINF:-1,CA: HLN  HD
-http://unlockyourtv.com:8000/charles/charles/1412
-#EXTINF:-1,CA:OWN
-http://unlockyourtv.com:8000/charles/charles/700
-#EXTINF:-1,CA: Peach Tree HD
-http://unlockyourtv.com:8000/charles/charles/1377
-#EXTINF:-1,CA: SLICE HD
-http://unlockyourtv.com:8000/charles/charles/978
-#EXTINF:-1,CA: Space HD
-http://unlockyourtv.com:8000/charles/charles/1378
-#EXTINF:-1,CA: SUPER ECRAN 1
-http://unlockyourtv.com:8000/charles/charles/1252
-#EXTINF:-1,CA: SUPER ECRAN 2
-http://unlockyourtv.com:8000/charles/charles/1253
-#EXTINF:-1,CA: SUPER ECRAN 3
-http://unlockyourtv.com:8000/charles/charles/1254
-#EXTINF:-1,CA: SUPER ECRAN 4
-http://unlockyourtv.com:8000/charles/charles/1255
-
-#EXTINF:-1,A&E HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/550
-#EXTINF:-1,A&E TV HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7771
-#EXTINF:-1,ABC FHD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7592
-#EXTINF:-1,ABC HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/539
-#EXTINF:-1,ABC News HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/540
-#EXTINF:-1,AFN Spectrum HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7726
-#EXTINF:-1,AFN Sport 1 US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/1136
-#EXTINF:-1,AFN Sport 2 US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/1135
-#EXTINF:-1,AMC HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/521
-#EXTINF:-1,AMC US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7792
-#EXTINF:-1,Amazing Discoveries HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/551
-#EXTINF:-1,Animal Planet US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7791
-#EXTINF:-1,beINSports HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/506
-#EXTINF:-1,BET HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7770
-#EXTINF:-1,BYU TV US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/522
-#EXTINF:-1,Bloomberg Europe US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/503
-#EXTINF:-1,Bloomberg TV HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/489
-#EXTINF:-1,Boomerang US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/502
-#EXTINF:-1,Bravo HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/541
-#EXTINF:-1,Bravo US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7790
-#EXTINF:-1,C-Span 1 US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/564
-#EXTINF:-1,C-Span 2 US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/565
-#EXTINF:-1,C-Span 3 US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/566
-#EXTINF:-1,CBS US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/486
-#EXTINF:-1,CBSN HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/524
-#EXTINF:-1,CNBC US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/525
-#EXTINF:-1,CNN HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/568
-#EXTINF:-1,CW HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/543
-#EXTINF:-1,CW US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7777
-#EXTINF:-1,CW11 US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/500
-#EXTINF:-1,Cable News Network HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7769
-#EXTINF:-1,Cartoon Network US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/523
-#EXTINF:-1,Chiller HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7717
-#EXTINF:-1,CineMax 5 StarMax US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/507
-#EXTINF:-1,CineMax Action HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/567
-#EXTINF:-1,CineMax ActionMax East US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/508
-#EXTINF:-1,CineMax East US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/509
-#EXTINF:-1,CineMax MoreMax US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/501
-#EXTINF:-1,Cinemax Action US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7789
-#EXTINF:-1,Cinemax More HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7768
-#EXTINF:-1,Comedy Central FHD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/542
-#EXTINF:-1,Comedy Central US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7788
-#EXTINF:-1,DIY Network HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7728
-#EXTINF:-1,DIY Network US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/482
-#EXTINF:-1,DW US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/528
-#EXTINF:-1,Discovery Channel CA FHD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7580
-#EXTINF:-1,Discovery Channel HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7767
-#EXTINF:-1,Discovery HD Showcase US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/499
-#EXTINF:-1,Discovery HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/526
-#EXTINF:-1,Discovery Science HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/510
-#EXTINF:-1,Discovery Velocity US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/527
-#EXTINF:-1,Disney Channel HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7766
-#EXTINF:-1,Disney XD HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7765
-#EXTINF:-1,E! Entertainment HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7764
-#EXTINF:-1,ESPN 1 HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7763
-#EXTINF:-1,ESPN 1 US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/552
-#EXTINF:-1,ESPN 2 FHD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/569
-#EXTINF:-1,ESPN 2 US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7787
-#EXTINF:-1,ESPN HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/544
-#EXTINF:-1,El Rey Network HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7715
-#EXTINF:-1,FOX 43 US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/570
-#EXTINF:-1,FX HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/513
-#EXTINF:-1,FX US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7784
-#EXTINF:-1,Fashion One HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/498
-#EXTINF:-1,Fight HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/529
-#EXTINF:-1,Fight Sport HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/584
-#EXTINF:-1,Fine Living US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/497
-#EXTINF:-1,Food Network HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/511
-#EXTINF:-1,Food Network US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7783
-#EXTINF:-1,Fox HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/512
-#EXTINF:-1,Fox News HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/545
-#EXTINF:-1,Fox Soccer Plus HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/6206
-#EXTINF:-1,Fox Soccer Plus US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7785
-#EXTINF:-1,Fox Sports 1 HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/553
-#EXTINF:-1,Fox Sports 1 US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7786
-#EXTINF:-1,Fox Sports 2 FHD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/554
-#EXTINF:-1,Fox Sports 2 HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7759
-#EXTINF:-1,Fox Sports 506 HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/571
-#EXTINF:-1,Fox Sports College Central HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7756
-#EXTINF:-1,Fox Sports HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7760
-#EXTINF:-1,Fox Sports North HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7752
-#EXTINF:-1,Free Form HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/572
-#EXTINF:-1,FreeForm HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7688
-#EXTINF:-1,Fuel HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/496
-#EXTINF:-1,GSN HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7749
-#EXTINF:-1,H2 US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/514
-#EXTINF:-1,HBO Comedy HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/530
-#EXTINF:-1,HBO East US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/483
-#EXTINF:-1,HBO Family HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7748
-#EXTINF:-1,HBO HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/531
-#EXTINF:-1,HBO Signature HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7747
-#EXTINF:-1,HBO Signature US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/484
-#EXTINF:-1,HBO US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7776
-#EXTINF:-1,HBO Zone US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/532
-#EXTINF:-1,HGTV HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/495
-#EXTINF:-1,HGTV US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7782
-#EXTINF:-1,HIFI US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/516
-#EXTINF:-1,Hallmark Channel HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7746
-#EXTINF:-1,Hallmark US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/515
-#EXTINF:-1,History HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/546
-#EXTINF:-1,History US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7781
-#EXTINF:-1,IFC HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7710
-#EXTINF:-1,Investigation Discovery HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7693
-#EXTINF:-1,Lifetime HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7745
-#EXTINF:-1,MLB HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/573
-#EXTINF:-1,MLB Network HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7701
-#EXTINF:-1,MLB Network US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/574
-#EXTINF:-1,MSNBC HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/575
-#EXTINF:-1,MTV Base HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7744
-#EXTINF:-1,MTV Rocks US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/494
-#EXTINF:-1,NBA HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/533
-#EXTINF:-1,NBC Golf Channel FHD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/6147
-#EXTINF:-1,NBC Golf Channel HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/6146
-#EXTINF:-1,NBC Golf HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7743
-#EXTINF:-1,NBC News HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7742
-#EXTINF:-1,NBC SN HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7741
-#EXTINF:-1,NBC US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/490
-#EXTINF:-1,NBCSN HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/555
-#EXTINF:-1,NFL Network 1 US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/504
-#EXTINF:-1,NFL Network FHD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/505
-#EXTINF:-1,NFL Network HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/556
-#EXTINF:-1,NFL Network US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7793
-#EXTINF:-1,NFL Now HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7773
-#EXTINF:-1,NFL Redzone HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7772
-#EXTINF:-1,NHL Network US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/576
-#EXTINF:-1,Nat Geo Wild HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7692
-#EXTINF:-1,Nat Geographic HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7691
-#EXTINF:-1,National Geographic US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/517
-#EXTINF:-1,Oprah Winfrey Network HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7740
-#EXTINF:-1,Outdoor Channel HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/493
-#EXTINF:-1,PAC-12 Arizona US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/557
-#EXTINF:-1,PAC-12 Bay Area US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/558
-#EXTINF:-1,PAC-12 Los Angeles FHD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/559
-#EXTINF:-1,PAC-12 Oregon FHD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/560
-#EXTINF:-1,PAC-12 Washington FHD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/561
-#EXTINF:-1,Reelz HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7739
-#EXTINF:-1,SEC Network HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7707
-#EXTINF:-1,Science HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7738
-#EXTINF:-1,Showtime 2 HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7737
-#EXTINF:-1,Showtime 2 US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/534
-#EXTINF:-1,Showtime East HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7736
-#EXTINF:-1,Showtime FHD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/535
-#EXTINF:-1,Showtime Showcase HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7735
-#EXTINF:-1,Showtime West US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/485
-#EXTINF:-1,Smile Of A Child US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/492
-#EXTINF:-1,Spike HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/518
-#EXTINF:-1,Spike TV HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7727
-#EXTINF:-1,Starz Cinema US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/536
-#EXTINF:-1,Starz Comedy US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/537
-#EXTINF:-1,Starz Edge HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/519
-#EXTINF:-1,Starz Edge US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7780
-#EXTINF:-1,Starz Encore HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7731
-#EXTINF:-1,Starz Encore US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/538
-#EXTINF:-1,SyFy HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/548
-#EXTINF:-1,SyFy US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7779
-#EXTINF:-1,TBS HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/578
-#EXTINF:-1,TNT HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/549
-#EXTINF:-1,Travel Channel HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7694
-#EXTINF:-1,truTV HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7705
-#EXTINF:-1,UFC Fight Pass US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/6421
-#EXTINF:-1,US Network HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/520
-#EXTINF:-1,USA HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7729
-#EXTINF:-1,USA Network HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/547
-#EXTINF:-1,Univision HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7704
-#EXTINF:-1,VH1 Classic US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/491
-#EXTINF:-1,WWE HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/562
-#EXTINF:-1,WWE Network FHD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7544
-#EXTINF:-1,WWE US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/7778
-#EXTINF:-1,Zee Cinema US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/2792
-#EXTINF:-1,NBA Live 1 HD US
-http://portal.geniptv.com:8080/JG73Qf33BB/qLVsOCW1fD/8538
-
-#EXTINF:-1,USA  AMC
-http://oses35.us:8080/kubilay/19012018/6484
-#EXTINF:-1,USA 5 USA
-http://oses35.us:8080/kubilay/19012018/6491
-#EXTINF:-1,USA ESPN 1
-http://oses35.us:8080/kubilay/19012018/6490
-#EXTINF:-1,USA ESPN 2
-http://oses35.us:8080/kubilay/19012018/6489
-#EXTINF:-1,USA ESPN 2 HD
-http://oses35.us:8080/kubilay/19012018/6486
-#EXTINF:-1,USA FOX SPORTS 1 HD
-http://oses35.us:8080/kubilay/19012018/6488
-#EXTINF:-1,USA FOX SPORTS 2 HD
-http://oses35.us:8080/kubilay/19012018/6487
-#EXTINF:-1,USA NBA TV
-http://oses35.us:8080/kubilay/19012018/6496
-#EXTINF:-1,USA NBC SPORTS 1 HD (LIVE EPL)
-http://oses35.us:8080/kubilay/19012018/6495
-#EXTINF:-1,USA NBC SPORTS 5 HD (LIVE EPL)
-http://oses35.us:8080/kubilay/19012018/6485
-#EXTINF:-1,USA NBC_SPORT
-http://oses35.us:8080/kubilay/19012018/6492
-#EXTINF:-1,USA TBS_HD
-http://oses35.us:8080/kubilay/19012018/6494
-#EXTINF:-1,USA TSN Sports 2 HD
-http://oses35.us:8080/kubilay/19012018/6500
-#EXTINF:-1,USA TSN Sports 3 HD
-http://oses35.us:8080/kubilay/19012018/6499
-#EXTINF:-1,USA TSN Sports 4 HD
-http://oses35.us:8080/kubilay/19012018/6498
-#EXTINF:-1,USA TSN Sports 5 HD
-http://oses35.us:8080/kubilay/19012018/6497
-#EXTINF:-1,USA WWE_HD
-http://oses35.us:8080/kubilay/19012018/6493
-#EXTINF:-1,[USA] Showtime 2
-http://oses35.us:8080/kubilay/19012018/6412
-#EXTINF:-1,[USA]_A&E_HD
-http://oses35.us:8080/kubilay/19012018/6468
-#EXTINF:-1,[USA]_CNN
-http://oses35.us:8080/kubilay/19012018/6481
-#EXTINF:-1,[USA]_ESPN
-http://oses35.us:8080/kubilay/19012018/6480
-#EXTINF:-1,[USA]_ESPN_2HD
-http://oses35.us:8080/kubilay/19012018/6479
-#EXTINF:-1,[USA]_FOX_SPORTS_1HD
-http://oses35.us:8080/kubilay/19012018/6478
-#EXTINF:-1,[USA]_FOX_SPORTS_2HD
-http://oses35.us:8080/kubilay/19012018/6477
-#EXTINF:-1,[USA]_HBO-SIGNATURE
-http://oses35.us:8080/kubilay/19012018/6474
-#EXTINF:-1,[USA]_HBO_HD
-http://oses35.us:8080/kubilay/19012018/6475
-#EXTINF:-1,[USA]_NBA_TV_HD
-http://oses35.us:8080/kubilay/19012018/6473
-#EXTINF:-1,[USA]_NBC_SPORT
-http://oses35.us:8080/kubilay/19012018/6472
-#EXTINF:-1,[USA]_Starz_Cinema_HD
-http://oses35.us:8080/kubilay/19012018/6482
-#EXTINF:-1,[USA]_STARZ_EDGE
-http://oses35.us:8080/kubilay/19012018/6471
-#EXTINF:-1,[USA]_SYFY_HD
-http://oses35.us:8080/kubilay/19012018/6470
-#EXTINF:-1,[USA]_TBS_HD
-http://oses35.us:8080/kubilay/19012018/6469
-#EXTINF:-1,[USA]_TNT_HD_US
-http://oses35.us:8080/kubilay/19012018/6476
-#EXTINF:-1,[USA]_WWE_HD
-http://oses35.us:8080/kubilay/19012018/6467
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+#EXTINF:-1,NBC Golf [NoRoku]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1,Cartoon Network
+http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
+#EXTINF:-1,Comedy Central
+http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
+#EXTINF:-1,FreeForm [NoKodi]
+https://videoserver2.org/live/mHwxt8kU2oOl862qOFE58w/1507031391/654bc354612eeefee71cd611b175730c.m3u8
+#EXTINF:-1,Investigation Discovery
+http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
+#EXTINF:-1,NatGeo Wild [Off]
+http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
+#EXTINF:-1,Science Channel
+http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
+#EXTINF:-1,truTV
+http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
+#EXTINF:-1,Velocity
+http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
+#EXTINF:-1,Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Biz TV
+http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
+#EXTINF:-1,California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1,Channel 7 [NoRoku]
+http://radio.7chan.org:8000/CH7
+#EXTINF:-1,Classic Arts Showcase
+http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
+#EXTINF:-1,The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1,D23 TV
+http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
+#EXTINF:-1,Ditty TV
+http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
+#EXTINF:-1,Evine [Off]
+http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/master.m3u8
+#EXTINF:-1,Home Shopping Network
+http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
+#EXTINF:-1,Hunt Channel
+http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
+#EXTINF:-1,MeTV
+http://video.metv.com/metv/index.m3u8
+#EXTINF:-1,NASA TV Public
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+#EXTINF:-1,NASA TV Media
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
+#EXTINF:-1,QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+#EXTINF:-1,Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,Rev'n
+http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
+#EXTINF:-1,SupTV
+http://91.134.238.137/live/alpha/index.m3u8
+#EXTINF:-1,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1,Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+#EXTINF:-1,TWiT.TV
+http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
+#EXTINF:-1,Wilderness Channel
+http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
+#EXTINF:-1,Yes TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+#EXTINF:-1,iHeart 80s
+http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
+#EXTINF:-1,Lite FM 106.7
+http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
+#EXTINF:-1,Nick Radio
+http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
+#EXTINF:-1,Z100 New York
+http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
+#EXTINF:-1,360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:-1,ASD TV
+http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8
+#EXTINF:-1,Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1,ATXN
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
+#EXTINF:-1,ATXN 2
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
+#EXTINF:-1,Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1,Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1,Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1,Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1,Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1,Capital City Connection
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+#EXTINF:-1,Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:-1,District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1,District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
+#EXTINF:-1,Escambia TV
+http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,The Florida Channel
+http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
+#EXTINF:-1,Garland TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:-1,Greenbelt TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+#EXTINF:-1,House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:-1,KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:-1,Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1,Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:-1,Laurel TV
+https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
+#EXTINF:-1,Miami TV
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
+#EXTINF:-1,Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1,PGCPS
+http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+#EXTINF:-1,RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,SCCtv
+http://media3.scctv.net/live/scctv_300/playlist.m3u8
+#EXTINF:-1,Seattle Channel
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+#EXTINF:-1,Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+#EXTINF:-1,Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1,Temple TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+#EXTINF:-1,TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1,TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1,TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1,UCTV
+http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8
+#EXTINF:-1,UGA TV
+http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
+#EXTINF:-1,White Plains TV
+http://oflash.dfw.swagit.com/live/whiteplainsny/live-b-2/chucklist.m3u8
+#EXTINF:-1,WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
