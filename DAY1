@@ -1,0 +1,971 @@
+#EXTM3U
+#EXTINF:-1,UK: BBC ONE FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/8015.ts
+#EXTINF:-1,UK: BBC ONE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/308.ts
+#EXTINF:-1,UK: BBC ONE SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/394.ts
+#EXTINF:-1,UK: BBC TWO FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/8016.ts
+#EXTINF:-1,UK: BBC TWO HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/7.ts
+#EXTINF:-1,UK: BBC TWO SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/3.ts
+#EXTINF:-1,UK: ITV FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/7900.ts
+#EXTINF:-1,UK: ITV HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4.ts
+#EXTINF:-1,UK: ITV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/637.ts
+#EXTINF:-1,UK: CHANNEL 4 FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/7890.ts
+#EXTINF:-1,UK: CHANNEL 4 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5.ts
+#EXTINF:-1,UK: CHANNEL 4 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/651.ts
+#EXTINF:-1,UK: CHANNEL 5 FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/8017.ts
+#EXTINF:-1,UK: CHANNEL 5 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/420.ts
+#EXTINF:-1,UK: CHANNEL 5 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6.ts
+#EXTINF:-1,UK: SKY ONE FHD (TEST)
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9428.ts
+#EXTINF:-1,UK: SKY ONE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/336.ts
+#EXTINF:-1,UK: SKY ONE SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9.ts
+#EXTINF:-1,UK: SKY WITNESS FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/10104.ts
+#EXTINF:-1,UK: SKY WITNESS HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/12.ts
+#EXTINF:-1,UK: SKY WITNESS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/265.ts
+#EXTINF:-1,UK: SKY ATLANTIC FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9781.ts
+#EXTINF:-1,UK: SKY ATLANTIC HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/11.ts
+#EXTINF:-1,UK: SKY ATLANTIC SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6005.ts
+#EXTINF:-1,UK: 4SEVEN SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/23.ts
+#EXTINF:-1,UK: 5USA SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4766.ts
+#EXTINF:-1,UK: 5SELECT SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4774.ts
+#EXTINF:-1,UK: 5SPIKE SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4741.ts
+#EXTINF:-1,UK: 5STAR SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/264.ts
+#EXTINF:-1,UK: ALIBI FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9787.ts
+#EXTINF:-1,UK: ALIBI HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/640.ts
+#EXTINF:-1,UK: ALIBI SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/44.ts
+#EXTINF:-1,UK: AMC SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/917.ts
+#EXTINF:-1,UK: BBC ALBA SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4754.ts
+#EXTINF:-1,UK: BBC FOUR FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9090.ts
+#EXTINF:-1,UK: BBC FOUR HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/2356.ts
+#EXTINF:-1,UK: BET SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/824.ts
+#EXTINF:-1,UK: CBS ACTION SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/48.ts
+#EXTINF:-1,UK: CBS DRAMA SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/47.ts
+#EXTINF:-1,UK: CBS REALITY SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/642.ts
+#EXTINF:-1,UK: CHALLENGE SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/49.ts
+#EXTINF:-1,UK: COMEDY CENTRAL FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9788.ts
+#EXTINF:-1,UK: COMEDY CENTRAL HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1036.ts
+#EXTINF:-1,UK: COMEDY CENTRAL SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/643.ts
+#EXTINF:-1,UK: COMEDY CENTRAL EXTRA SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/46.ts
+#EXTINF:-1,UK: DAVE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/733.ts
+#EXTINF:-1,UK: DAVE SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/50.ts
+#EXTINF:-1,UK: DISCOVERY HOME & HEALTH SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/63.ts
+#EXTINF:-1,UK: DISCOVERY SHED SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/234.ts
+#EXTINF:-1,UK: DMAX SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/447.ts
+#EXTINF:-1,UK: DRAMA SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/391.ts
+#EXTINF:-1,UK: E! ENTERTAINMENT SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/260.ts
+#EXTINF:-1,UK: E4 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/20.ts
+#EXTINF:-1,UK: E4 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/21.ts
+#EXTINF:-1,UK: FOOD NETWORK SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/456.ts
+#EXTINF:-1,UK: FORCES TV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/2073.ts
+#EXTINF:-1,UK: FOX HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/51.ts
+#EXTINF:-1,UK: FOX SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/646.ts
+#EXTINF:-1,UK: GOLD SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/52.ts
+#EXTINF:-1,UK: GOOD FOOD HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6815.ts
+#EXTINF:-1,UK: GOOD FOOD SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/70.ts
+#EXTINF:-1,UK: HOME SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4742.ts
+#EXTINF:-1,UK: ITV2 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/15.ts
+#EXTINF:-1,UK: ITV2 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/638.ts
+#EXTINF:-1,UK: ITV3 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/365.ts
+#EXTINF:-1,UK: ITV3 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/16.ts
+#EXTINF:-1,UK: ITV4 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/366.ts
+#EXTINF:-1,UK: ITV4 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/17.ts
+#EXTINF:-1,UK: ITVBE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/364.ts
+#EXTINF:-1,UK: ITVBE SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/18.ts
+#EXTINF:-1,UK: LIFETIME HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9713.ts
+#EXTINF:-1,UK: LIFETIME SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/53.ts
+#EXTINF:-1,UK: LONDON LIVE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4775.ts
+#EXTINF:-1,UK: MORE4 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/288.ts
+#EXTINF:-1,UK: MORE4 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/22.ts
+#EXTINF:-1,UK: MTV FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9727.ts
+#EXTINF:-1,UK: MTV HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/3041.ts
+#EXTINF:-1,UK: MTV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5262.ts
+#EXTINF:-1,UK: PICK SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/54.ts
+#EXTINF:-1,UK: QUEST SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/332.ts
+#EXTINF:-1,UK: QUEST RED SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/7032.ts
+#EXTINF:-1,UK: REAL LIVES SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1842.ts
+#EXTINF:-1,UK: REALLY SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1120.ts
+#EXTINF:-1,UK: S4C FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9082.ts
+#EXTINF:-1,UK: S4C HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/292.ts
+#EXTINF:-1,UK: S4C SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9083.ts
+#EXTINF:-1,UK: SKY ARTS FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9789.ts
+#EXTINF:-1,UK: SKY ARTS HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4591.ts
+#EXTINF:-1,UK: SKY ARTS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/13.ts
+#EXTINF:-1,UK: SKY TWO SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/2993.ts
+#EXTINF:-1,UK: SONY CRIME SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/373.ts
+#EXTINF:-1,UK: SONY CRIME 2 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4791.ts
+#EXTINF:-1,UK: SYFY FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9780.ts
+#EXTINF:-1,UK: SYFY HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/329.ts
+#EXTINF:-1,UK: SYFY SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/55.ts
+#EXTINF:-1,UK: TLC FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9791.ts
+#EXTINF:-1,UK: TLC HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/66.ts
+#EXTINF:-1,UK: TRAVEL CHANNEL SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/115.ts
+#EXTINF:-1,UK: TRU TV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/8642.ts
+#EXTINF:-1,UK: TRUE ENTERTAINMENT SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4752.ts
+#EXTINF:-1,UK: UNIVERSAL HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/2989.ts
+#EXTINF:-1,UK: UNIVERSAL SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/56.ts
+#EXTINF:-1,UK: VICELAND HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/2572.ts
+#EXTINF:-1,UK: WATCH HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/363.ts
+#EXTINF:-1,UK: WATCH SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/133.ts
+#EXTINF:-1,UK: BBC ONE NORTHERN IRELAND HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5361.ts
+#EXTINF:-1,UK: BBC ONE SCOTLAND HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5360.ts
+#EXTINF:-1,UK: BBC ONE WALES HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5677.ts
+#EXTINF:-1,UK: BBC TWO NORTHERN IRELAND SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/7413.ts
+#EXTINF:-1,UK: BBC TWO SCOTLAND SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9072.ts
+#EXTINF:-1,UK: BBC TWO WALES SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/405.ts
+#EXTINF:-1,UK: STV FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9078.ts
+#EXTINF:-1,UK: STV HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/2609.ts
+#EXTINF:-1,UK: STV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9079.ts
+#EXTINF:-1,UK: UTV FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9077.ts
+#EXTINF:-1,UK: UTV HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5376.ts
+#EXTINF:-1,UK: UTV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9076.ts
+#EXTINF:-1,UK: 3E SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/376.ts
+#EXTINF:-1,UK: EIR SPORTS 1 SD A
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/11242.ts
+#EXTINF:-1,UK: EIR SPORTS 2 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/681.ts
+#EXTINF:-1,UK: EIR SPORTS 2 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/632.ts
+#EXTINF:-1,UK: RTE ONE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5247.ts
+#EXTINF:-1,UK: RTE ONE SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/14.ts
+#EXTINF:-1,UK: RTE TWO HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5248.ts
+#EXTINF:-1,UK: RTE TWO SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/309.ts
+#EXTINF:-1,UK: RTE JR SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/201.ts
+#EXTINF:-1,UK: RTE NEWS NOW SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/694.ts
+#EXTINF:-1,UK: TG4 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/377.ts
+#EXTINF:-1,UK: TV3 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/378.ts
+#EXTINF:-1,UK: SKY CINEMA PREMIER FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6805.ts
+#EXTINF:-1,UK: SKY CINEMA PREMIERE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/42.ts
+#EXTINF:-1,UK: SKY CINEMA PREMIERE SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/211.ts
+#EXTINF:-1,UK: SKY CINEMA GREATS FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6787.ts
+#EXTINF:-1,UK: SKY CINEMA GREATS HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/41.ts
+#EXTINF:-1,UK: SKY CINEMA GREATS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/214.ts
+#EXTINF:-1,UK: SKY CINEMA DISNEY FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6786.ts
+#EXTINF:-1,UK: SKY CINEMA DISNEY HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/206.ts
+#EXTINF:-1,UK: SKY CINEMA DISNEY SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/215.ts
+#EXTINF:-1,UK: SKY CINEMA ANIMATION FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6838.ts
+#EXTINF:-1,UK: SKY CINEMA ANIMATION HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/40.ts
+#EXTINF:-1,UK: SKY CINEMA ANIMATION SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/217.ts
+#EXTINF:-1,UK: SKY CINEMA ACTION MEN FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6785.ts
+#EXTINF:-1,UK: SKY CINEMA ACTION MEN HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/38.ts
+#EXTINF:-1,UK: SKY CINEMA ACTION MEN SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/219.ts
+#EXTINF:-1,UK: SKY CINEMA COMEDY FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6796.ts
+#EXTINF:-1,UK: SKY CINEMA COMEDY HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/39.ts
+#EXTINF:-1,UK: SKY CINEMA COMEDY SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/220.ts
+#EXTINF:-1,UK: SKY CINEMA THRILLER FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6797.ts
+#EXTINF:-1,UK: SKY CINEMA THRILLER HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/207.ts
+#EXTINF:-1,UK: SKY CINEMA THRILLER SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/221.ts
+#EXTINF:-1,UK: SKY CINEMA DRAMA FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6795.ts
+#EXTINF:-1,UK: SKY CINEMA DRAMA HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/37.ts
+#EXTINF:-1,UK: SKY CINEMA DRAMA SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/660.ts
+#EXTINF:-1,UK: SKY CINEMA DC HEROES FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6839.ts
+#EXTINF:-1,UK: SKY CINEMA DC HEROES HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/204.ts
+#EXTINF:-1,UK: SKY CINEMA DC HEROES SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/213.ts
+#EXTINF:-1,UK: SKY CINEMA MONSTERS FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6804.ts
+#EXTINF:-1,UK: SKY CINEMA MONSTERS HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/43.ts
+#EXTINF:-1,UK: SKY CINEMA MONSTERS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/222.ts
+#EXTINF:-1,UK: SKY CINEMA CLASSICS FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6837.ts
+#EXTINF:-1,UK: SKY CINEMA CLASSICS HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/208.ts
+#EXTINF:-1,UK: SKY CINEMA CLASSICS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/223.ts
+#EXTINF:-1,UK: FILM4 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/224.ts
+#EXTINF:-1,UK: FILM4 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/225.ts
+#EXTINF:-1,UK: HORROR CHANNEL SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1841.ts
+#EXTINF:-1,UK: MOVIES 24 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1874.ts
+#EXTINF:-1,UK: MOVIES4MEN SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/226.ts
+#EXTINF:-1,UK: SONY MOVIES SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/229.ts
+#EXTINF:-1,UK: TCM HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/266.ts
+#EXTINF:-1,UK: TCM SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1840.ts
+#EXTINF:-1,UK: TRUE MOVIES SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/227.ts
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4768.ts
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1.ts
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD BACKUP A
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/11239.ts
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/71.ts
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE FHD A
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/11238.ts
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/32.ts
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD BACKUP A
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/11240.ts
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE SD A
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/11241.ts
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6007.ts
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6006.ts
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6014.ts
+#EXTINF:-1,UK: SKY SPORTS CRICKET FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5278.ts
+#EXTINF:-1,UK: SKY SPORTS CRICKET HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/26.ts
+#EXTINF:-1,UK: SKY SPORTS CRICKET HD BACKUP
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1846.ts
+#EXTINF:-1,UK: SKY SPORTS CRICKET SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/72.ts
+#EXTINF:-1,UK: SKY SPORTS GOLF FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5280.ts
+#EXTINF:-1,UK: SKY SPORTS GOLF HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/28.ts
+#EXTINF:-1,UK: SKY SPORTS GOLF HD BACKUP
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1849.ts
+#EXTINF:-1,UK: SKY SPORTS GOLF SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/74.ts
+#EXTINF:-1,UK: SKY SPORTS F1 FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5282.ts
+#EXTINF:-1,UK: SKY SPORTS F1 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/30.ts
+#EXTINF:-1,UK: SKY SPORTS F1 HD BACK UP
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1851.ts
+#EXTINF:-1,UK: SKY SPORTS F1 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/76.ts
+#EXTINF:-1,UK: SKY SPORTS ACTION FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5279.ts
+#EXTINF:-1,UK: SKY SPORTS ACTION HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/27.ts
+#EXTINF:-1,UK: SKY SPORTS ACTION HD BACKUP
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1847.ts
+#EXTINF:-1,UK: SKY SPORTS ACTION SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/73.ts
+#EXTINF:-1,UK: SKY SPORTS ARENA FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6008.ts
+#EXTINF:-1,UK: SKY SPORTS ARENA HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6009.ts
+#EXTINF:-1,UK: SKY SPORTS ARENA SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6015.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/31.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/29.ts
+#EXTINF:-1,UK: SKY SPORTS MIX HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/258.ts
+#EXTINF:-1,UK: BT SPORT 1 FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5283.ts
+#EXTINF:-1,UK: BT SPORT 1 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/25.ts
+#EXTINF:-1,UK: BT SPORT 1 HD BACKUP
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/607.ts
+#EXTINF:-1,UK: BT SPORT 1 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/90.ts
+#EXTINF:-1,UK: BT SPORT 2 FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5284.ts
+#EXTINF:-1,UK: BT SPORT 2 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/33.ts
+#EXTINF:-1,UK: BT SPORT 2 HD BACKUP
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/608.ts
+#EXTINF:-1,UK: BT SPORT 2 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/91.ts
+#EXTINF:-1,UK: BT SPORT 3 FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5285.ts
+#EXTINF:-1,UK: BT SPORT 3 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/35.ts
+#EXTINF:-1,UK: BT SPORT 3 HD BACKUP
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/609.ts
+#EXTINF:-1,UK: BT SPORT 3 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/92.ts
+#EXTINF:-1,UK: BT SPORT ESPN HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/88.ts
+#EXTINF:-1,UK: BT SPORT ESPN SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/680.ts
+#EXTINF:-1,UK: BT SPORT EXTRA 1 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/538.ts
+#EXTINF:-1,UK: BT SPORT EXTRA 2 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/539.ts
+#EXTINF:-1,UK: BT SPORT EXTRA 3 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/540.ts
+#EXTINF:-1,UK: BT SPORT EXTRA 4 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/541.ts
+#EXTINF:-1,UK: BT SPORT EXTRA 5 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/542.ts
+#EXTINF:-1,UK: BT SPORT EXTRA 6 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/89.ts
+#EXTINF:-1,UK: AT THE RACES SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/81.ts
+#EXTINF:-1,UK: BOXNATION FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6999.ts
+#EXTINF:-1,UK: BOXNATION SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/83.ts
+#EXTINF:-1,UK: EUROSPORT 1 FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6813.ts
+#EXTINF:-1,UK: ELEVEN SPORTS 1 FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/11125.ts
+#EXTINF:-1,UK: ELEVEN SPORTS 2 FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/11132.ts
+#EXTINF:-1,UK: EUROSPORT 1 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/77.ts
+#EXTINF:-1,UK: EUROSPORT 1 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/683.ts
+#EXTINF:-1,UK: EUROSPORT 2 FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6814.ts
+#EXTINF:-1,UK: EUROSPORT 2 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/78.ts
+#EXTINF:-1,UK: EUROSPORT 2 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/682.ts
+#EXTINF:-1,UK: FREESPORTS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/7467.ts
+#EXTINF:-1,UK: PREMIER SPORTS HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/80.ts
+#EXTINF:-1,UK: PREMIER SPORTS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/684.ts
+#EXTINF:-1,UK: PREMIER SPORTS 2 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/10957.ts
+#EXTINF:-1,UK: RACING UK FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/249.ts
+#EXTINF:-1,UK: RACING UK SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/685.ts
+#EXTINF:-1,UK: CHELSEA TV HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/2606.ts
+#EXTINF:-1,UK: CHELSEA TV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/123.ts
+#EXTINF:-1,UK: LFCTV HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/57.ts
+#EXTINF:-1,UK: LFCTV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1116.ts
+#EXTINF:-1,UK: MUTV HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/125.ts
+#EXTINF:-1,UK: MUTV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1117.ts
+#EXTINF:-1,UK: CELTIC TV HD (live matches only)
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/468.ts
+#EXTINF:-1,UK: RANGERS TV HD  (live matches only)
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/467.ts
+#EXTINF:-1,UK: AL JAZEERA ENGLISH SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/687.ts
+#EXTINF:-1,UK: BBC NEWS FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/8643.ts
+#EXTINF:-1,UK: BBC NEWS HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/603.ts
+#EXTINF:-1,UK: BBC NEWS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/688.ts
+#EXTINF:-1,UK: BBC PARLIAMENT SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4786.ts
+#EXTINF:-1,UK: BLOOMBERG HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/689.ts
+#EXTINF:-1,UK: BLOOMBERG SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/8638.ts
+#EXTINF:-1,UK: CNBC SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/690.ts
+#EXTINF:-1,UK: CNN INTERNATIONAL FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/284.ts
+#EXTINF:-1,UK: CNN INTERNATIONAL SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/662.ts
+#EXTINF:-1,UK: EURONEWS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4772.ts
+#EXTINF:-1,UK: FRANCE 24 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/693.ts
+#EXTINF:-1,UK: RT NEWS HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/268.ts
+#EXTINF:-1,UK: SKY NEWS HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/267.ts
+#EXTINF:-1,UK: SKY NEWS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/270.ts
+#EXTINF:-1,UK: ANIMAL PLANET HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/605.ts
+#EXTINF:-1,UK: ANIMAL PLANET SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/59.ts
+#EXTINF:-1,UK: BLAZE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5362.ts
+#EXTINF:-1,UK: BLAZE SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/8637.ts
+#EXTINF:-1,UK: CRIME & INVESTIGATION FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9729.ts
+#EXTINF:-1,UK: CRIME & INVESTIGATION HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5246.ts
+#EXTINF:-1,UK: CRIME & INVESTIGATION SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/209.ts
+#EXTINF:-1,UK: DISCOVERY CHANNEL FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9790.ts
+#EXTINF:-1,UK: DISCOVERY CHANNEL HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/60.ts
+#EXTINF:-1,UK: DISCOVERY CHANNEL SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/379.ts
+#EXTINF:-1,UK: DISCOVERY SCIENCE SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/64.ts
+#EXTINF:-1,UK: DISCOVERY TURBO SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/235.ts
+#EXTINF:-1,UK: EDEN HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/68.ts
+#EXTINF:-1,UK: EDEN SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/69.ts
+#EXTINF:-1,UK: DISCOVERY HISTORY HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9660.ts
+#EXTINF:-1,UK: HISTORY HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/62.ts
+#EXTINF:-1,UK: HISTORY SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/61.ts
+#EXTINF:-1,UK: H2 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/606.ts
+#EXTINF:-1,UK: H2 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/113.ts
+#EXTINF:-1,UK: INSIGHT HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/711.ts
+#EXTINF:-1,UK: INVESTIGATION DISCOVERY SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/236.ts
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/10035.ts
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/712.ts
+#EXTINF:-1,UK: NAT GEO WILD HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/67.ts
+#EXTINF:-1,UK: NAT GEO WILD SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/713.ts
+#EXTINF:-1,UK: PBS AMERICA SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/714.ts
+#EXTINF:-1,UK: TOGETHER TV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/7033.ts
+#EXTINF:-1,UK: YESTERDAY SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/367.ts
+#EXTINF:-1,UK: BABY TV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/185.ts
+#EXTINF:-1,UK: BOOMERANG SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/186.ts
+#EXTINF:-1,UK: CARTOON NETWORK HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/203.ts
+#EXTINF:-1,UK: CARTOON NETWORK SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/202.ts
+#EXTINF:-1,UK: CARTOONITO SD (NOT 24/7)
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4747.ts
+#EXTINF:-1,UK: CBBC FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/8644.ts
+#EXTINF:-1,UK: CBBC SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/188.ts
+#EXTINF:-1,UK: CBEEBIES FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9089.ts
+#EXTINF:-1,UK: CBEEBIES HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/190.ts
+#EXTINF:-1,UK: CITV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5669.ts
+#EXTINF:-1,UK: DISNEY CHANNEL FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/10034.ts
+#EXTINF:-1,UK: DISNEY CHANNEL HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5249.ts
+#EXTINF:-1,UK: DISNEY CHANNEL SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/192.ts
+#EXTINF:-1,UK: DISNEY JUNIOR HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/7466.ts
+#EXTINF:-1,UK: DISNEY JUNIOR SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/58.ts
+#EXTINF:-1,UK: DISNEY XD HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/194.ts
+#EXTINF:-1,UK: NICK JR. SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/197.ts
+#EXTINF:-1,UK: NICK JR. TOO SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/198.ts
+#EXTINF:-1,UK: NICKELODEON HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/196.ts
+#EXTINF:-1,UK: NICKTOONS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/446.ts
+#EXTINF:-1,UK: POP SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/724.ts
+#EXTINF:-1,UK: POP MAX SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/8641.ts
+#EXTINF:-1,UK: TINY POP SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/199.ts
+#EXTINF:-1,UK: 4MUSIC SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/8635.ts
+#EXTINF:-1,UK: BOX SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9081.ts
+#EXTINF:-1,UK: BOX HITS
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9080.ts
+#EXTINF:-1,UK: BOX UPFRONT
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9075.ts
+#EXTINF:-1,UK: CAPITAL TV HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4770.ts
+#EXTINF:-1,UK: CHART SHOW HITS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/8639.ts
+#EXTINF:-1,UK: CHART SHOW TV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/374.ts
+#EXTINF:-1,UK: CLUBLAND TV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6974.ts
+#EXTINF:-1,UK: HEART HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4773.ts
+#EXTINF:-1,UK: KEEP IT COUNTRY SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/8640.ts
+#EXTINF:-1,UK: KERRANG! SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9085.ts
+#EXTINF:-1,UK: KISS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9086.ts
+#EXTINF:-1,UK: MAGIC SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9087.ts
+#EXTINF:-1,UK: MTV BASE SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/676.ts
+#EXTINF:-1,UK: MTV CLASSIC SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/247.ts
+#EXTINF:-1,UK: MTV DANCE SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/246.ts
+#EXTINF:-1,UK: MTV HITS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/237.ts
+#EXTINF:-1,UK: MTV LIVE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/242.ts
+#EXTINF:-1,UK: MTV MUSIC SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/244.ts
+#EXTINF:-1,UK: MTV OMG SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9730.ts
+#EXTINF:-1,UK: MTV ROCKS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/240.ts
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/65.ts
+#EXTINF:-1,UK: NOW 80S SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9091.ts
+#EXTINF:-1,UK: NOW 90S SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6780.ts
+#EXTINF:-1,UK: SCUZZ SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/368.ts
+#EXTINF:-1,UK: THE VAULT SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/241.ts
+#EXTINF:-1,UK: VH1 SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/182.ts
+#EXTINF:-1,UK: VINTAGE TV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/402.ts
+#EXTINF:-1,UK: AAJ TALK SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4737.ts
+#EXTINF:-1,UK: ABP NEWS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4738.ts
+#EXTINF:-1,UK: B4U MOVIES SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9782.ts
+#EXTINF:-1,UK: B4U MUSIC SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4740.ts
+#EXTINF:-1,UK: COLORS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4755.ts
+#EXTINF:-1,UK: DUNYA NEWS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4756.ts
+#EXTINF:-1,UK: GEO NEWS INTERNATIONAL SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4757.ts
+#EXTINF:-1,UK: GEO TV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4758.ts
+#EXTINF:-1,UK: RISHTEY TV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4745.ts
+#EXTINF:-1,UK: SAB TV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4746.ts
+#EXTINF:-1,UK: SET ASIA SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4760.ts
+#EXTINF:-1,UK: SET MIX SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4761.ts
+#EXTINF:-1,UK: STAR BHARAT SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4750.ts
+#EXTINF:-1,UK: STAR GOLD SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4748.ts
+#EXTINF:-1,UK: STAR PLUS SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4751.ts
+#EXTINF:-1,UK: STARZ TV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/677.ts
+#EXTINF:-1,UK: ZEE TV SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4764.ts
+#EXTINF:-1,UK: ZEE CINEMA SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4762.ts
+#EXTINF:-1,UK: ZING SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4765.ts
+#EXTINF:-1,USA/CA: A&E TV HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/287.ts
+#EXTINF:-1,USA/CA: ABC HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/136.ts
+#EXTINF:-1,USA/CA: AMC HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/139.ts
+#EXTINF:-1,USA/CA: BBC AMERICA HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5354.ts
+#EXTINF:-1,USA/CA: CBC HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/560.ts
+#EXTINF:-1,USA/CA: CBS HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/159.ts
+#EXTINF:-1,USA/CA: CITY FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/579.ts
+#EXTINF:-1,USA/CA: COMEDY CENTRAL HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/161.ts
+#EXTINF:-1,USA/CA: CTV HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/2818.ts
+#EXTINF:-1,USA/CA: DISCOVERY CHANNEL HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/163.ts
+#EXTINF:-1,USA/CA: FOX HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1619.ts
+#EXTINF:-1,USA/CA: FX HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/144.ts
+#EXTINF:-1,USA/CA: FXX HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/283.ts
+#EXTINF:-1,USA/CA: GLOBAL HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/583.ts
+#EXTINF:-1,USA/CA: GSN HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/940.ts
+#EXTINF:-1,USA/CA: HALLMARK HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/2037.ts
+#EXTINF:-1,USA/CA: HISTORY HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/380.ts
+#EXTINF:-1,USA/CA: INVESTIGATION DISCOVERY HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/327.ts
+#EXTINF:-1,USA/CA: MTV HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/2610.ts
+#EXTINF:-1,USA/CA: MTV LIVE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5357.ts
+#EXTINF:-1,USA/CA: NATIONAL GEOGRAPHIC HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/2588.ts
+#EXTINF:-1,USA/CA: NBC HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/149.ts
+#EXTINF:-1,USA/CA: PARAMOUNT NETWORK HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/152.ts
+#EXTINF:-1,USA/CA: PBS HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/941.ts
+#EXTINF:-1,USA/CA: PEACH TREE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1798.ts
+#EXTINF:-1,USA/CA: SLICE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/566.ts
+#EXTINF:-1,USA/CA: SYFY HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/153.ts
+#EXTINF:-1,USA/CA: TBS HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/154.ts
+#EXTINF:-1,USA/CA: THE CW HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/301.ts
+#EXTINF:-1,USA/CA: TNT HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/155.ts
+#EXTINF:-1,USA/CA: TRU TV HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/738.ts
+#EXTINF:-1,USA/CA: USA NETWORK HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/180.ts
+#EXTINF:-1,USA/CA: VH1
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/162.ts
+#EXTINF:-1,USA/CA: ANIMAL PLANET HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1037.ts
+#EXTINF:-1,USA/CA: BRAVO HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/156.ts
+#EXTINF:-1,USA/CA: DESTINATION AMERICA
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5277.ts
+#EXTINF:-1,USA/CA: DISCOVERY SCIENCE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1115.ts
+#EXTINF:-1,USA/CA: DIY NETWORK HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/165.ts
+#EXTINF:-1,USA/CA: E! ENTERTAINMENT HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1772.ts
+#EXTINF:-1,USA/CA: HGTV HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/147.ts
+#EXTINF:-1,USA/CA: LIFETIME HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/148.ts
+#EXTINF:-1,USA/CA: NAT GEO WILD HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/2587.ts
+#EXTINF:-1,USA/CA: OWN HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/179.ts
+#EXTINF:-1,USA/CA: TLC HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1180.ts
+#EXTINF:-1,USA/CA: TRAVEL CHANNEL USA HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5333.ts
+#EXTINF:-1,USA/CA: CINEMAX HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/160.ts
+#EXTINF:-1,USA/CA: CINEMAX MOREMAX HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/172.ts
+#EXTINF:-1,USA/CA: CINEMAX THRILLERMAX
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6004.ts
+#EXTINF:-1,USA/CA: EPIX HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5617.ts
+#EXTINF:-1,USA/CA: EPIX 2 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5619.ts
+#EXTINF:-1,USA/CA: HALLMARK MOVIES & MYSTERIES
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5620.ts
+#EXTINF:-1,USA/CA: HBO HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/146.ts
+#EXTINF:-1,USA/CA: HBO 2 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5359.ts
+#EXTINF:-1,USA/CA: HBO COMEDY FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6003.ts
+#EXTINF:-1,USA/CA: HBO FAMILY HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/985.ts
+#EXTINF:-1,USA/CA: HBO ZONE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1181.ts
+#EXTINF:-1,USA/CA: SHOWTIME HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1778.ts
+#EXTINF:-1,USA/CA: SHOWTIME 2 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1782.ts
+#EXTINF:-1,USA/CA: SHOWTIME FAMILY ZONE SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5358.ts
+#EXTINF:-1,USA/CA: STARZ EDGE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1182.ts
+#EXTINF:-1,USA/CA: STARZ ENCORE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1789.ts
+#EXTINF:-1,USA/CA: BEIN USA HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/847.ts
+#EXTINF:-1,USA/CA: BTN HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/403.ts
+#EXTINF:-1,USA/CA: CBS SPORTS NETWORK HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/828.ts
+#EXTINF:-1,USA/CA: ELEVEN SPORTS NETWORK HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9321.ts
+#EXTINF:-1,USA/CA: ESPN HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/166.ts
+#EXTINF:-1,USA/CA: ESPN 2 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/167.ts
+#EXTINF:-1,USA/CA: ESPN NEWS HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/918.ts
+#EXTINF:-1,USA/CA: ESPN U SD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/4065.ts
+#EXTINF:-1,USA/CA: FOX SOCCER PLUS
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9320.ts
+#EXTINF:-1,USA/CA: FOX SPORTS 1 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/120.ts
+#EXTINF:-1,USA/CA: FOX SPORTS 2 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/121.ts
+#EXTINF:-1,USA/CA: FOX SPORTS DEPOTES
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9322.ts
+#EXTINF:-1,USA/CA: MLB NETWORK HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/171.ts
+#EXTINF:-1,USA/CA: NBA TV HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/173.ts
+#EXTINF:-1,USA/CA: NBC GOLF HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/395.ts
+#EXTINF:-1,USA/CA: NBCSN HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/132.ts
+#EXTINF:-1,USA/CA: NFL NETWORK HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/334.ts
+#EXTINF:-1,USA/CA: NFL NOW HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/175.ts
+#EXTINF:-1,USA/CA: NHL NETWORK HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/176.ts
+#EXTINF:-1,USA/CA: PAC 12 ARIZONA
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/7887.ts
+#EXTINF:-1,USA/CA: PAC 12 BAY AREA
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/7889.ts
+#EXTINF:-1,USA/CA: PAC 12 LOS ANGELES
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/7903.ts
+#EXTINF:-1,USA/CA: PAC 12 MOUNTAIN
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/7904.ts
+#EXTINF:-1,USA/CA: PAC 12 NETWORK
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/7902.ts
+#EXTINF:-1,USA/CA: PAC 12 OREGON
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/7905.ts
+#EXTINF:-1,USA/CA: PAC 12 WASHINGTON
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/7906.ts
+#EXTINF:-1,USA/CA: SEC NETWORK HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/261.ts
+#EXTINF:-1,USA/CA: SPORTS NET 360 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/569.ts
+#EXTINF:-1,USA/CA: SPORTS NET EAST HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/570.ts
+#EXTINF:-1,USA/CA: SPORTS NET ONE HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/567.ts
+#EXTINF:-1,USA/CA: SPORTS NET ONTARIO HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/571.ts
+#EXTINF:-1,USA/CA: SPORTS NET PACIFIC HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/572.ts
+#EXTINF:-1,USA/CA: SPORTS NET WEST HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/573.ts
+#EXTINF:-1,USA/CA: SPORTS NET WORLD HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/568.ts
+#EXTINF:-1,USA/CA: TENNIS CHANNEL HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/407.ts
+#EXTINF:-1,USA/CA: THE FIGHT NETWORK FHD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9323.ts
+#EXTINF:-1,USA/CA: TSN 1 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/574.ts
+#EXTINF:-1,USA/CA: TSN 2 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/575.ts
+#EXTINF:-1,USA/CA: TSN 3 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/576.ts
+#EXTINF:-1,USA/CA: TSN 4 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/577.ts
+#EXTINF:-1,USA/CA: TSN 5 HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/578.ts
+#EXTINF:-1,USA/CA: UFC Fight Pass
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/10330.ts
+#EXTINF:-1,USA/CA: VELOCITY HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/331.ts
+#EXTINF:-1,USA/CA: WILLOW CRICKET HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/11233.ts
+#EXTINF:-1,USA/CA: WWE NETWORK HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/87.ts
+#EXTINF:-1,USA/CA: CARTOON NETWORK HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/158.ts
+#EXTINF:-1,USA/CA: DISCOVERY FAMILY HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/5355.ts
+#EXTINF:-1,USA/CA: DISNEY CHANNEL HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/746.ts
+#EXTINF:-1,USA/CA: DISNEY JR HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/9088.ts
+#EXTINF:-1,USA/CA: FREEFORM HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/939.ts
+#EXTINF:-1,USA/CA: ME TV HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/564.ts
+#EXTINF:-1,USA/CA: NICK JR HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/164.ts
+#EXTINF:-1,USA/CA: NICKELODEON HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/178.ts
+#EXTINF:-1,USA/CA: NICKTOONS HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1109.ts
+#EXTINF:-1,USA/CA: ABC NEWS HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/138.ts
+#EXTINF:-1,USA/CA: CBS NEWS
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/6553.ts
+#EXTINF:-1,USA/CA: CNBC HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/631.ts
+#EXTINF:-1,USA/CA: CNN HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/744.ts
+#EXTINF:-1,USA/CA: FOX BUSINESS NETWORK HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1179.ts
+#EXTINF:-1,USA/CA: FOX NEWS HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/269.ts
+#EXTINF:-1,USA/CA: MSNBC HD
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/1118.ts
+#EXTINF:-1,USA/CA: THE WEATHER CHANNEL
+http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/7377.ts
